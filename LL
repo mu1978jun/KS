@@ -4,6 +4,10 @@
    
     "sites": [
         
+        
+{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
+
+        
               {"key":"360_spider","name":"首页┃360","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},  
        {"key":"csp_Alist","name":"💾Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Alist.json"},
        {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/po/raw/branch/master/BB/ZT.txt"},
