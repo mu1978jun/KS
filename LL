@@ -64,28 +64,7 @@
 
 
 {"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/bidizili.json","jar": "https://jihulab.com/OPG/bo/raw/main/A/xxtv.jar"},
-{
-            "key": "csp_XBPQ_JOJO", 
-            "name": "🌂JOJO", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": {
-                "二次截取": "class=\"content-body\"&&class=\"content-lift\"", 
-                "数组": "<a&&</a>", 
-                "图片": "src=\"&&\"", 
-                "标题": "class=\"card-title\">&&</p>", 
-                "副标题": "class=\"item-speed\">&&</p>", 
-                "链接": "href=\"&&\"", 
-                "播放数组": "class=\"plyr-sidebar-list&&</div>", 
-                "嗅探词": "cn-beijing-data.aliyundrive.net", 
-                "搜索url": "https://app.syrme.top/video/search?q={wd}", 
-                "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录", 
-                "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-            }
-        }, 
+
 {"key":"轻简","name":"✂️简简采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
 {"key":"初语","name":"💬初语采集","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"},
