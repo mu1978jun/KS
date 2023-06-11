@@ -110,7 +110,36 @@
                 "动漫"
             ]
         }, 
-
+{
+			"key": "快看资源",
+			"name": "📺快看切片",
+			"type": 1,
+			"api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"categories": [
+				"国产剧",
+				"韩国剧",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"动作片",
+				"科幻片",
+				"战争片",
+				"奇幻片",
+				"喜剧片",
+				"爱情片",
+				"恐怖片",
+				"犯罪片",
+				"悬疑片",
+				"惊悚片",
+				"剧情片",
+				"冒险片",
+				"记录片",
+				"综艺",
+				"动漫"
+			]
+		},
 
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/nmys.json"},
 {"key":"csp_Dy1010","name":"⏺双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
