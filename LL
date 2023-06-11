@@ -63,7 +63,7 @@
 
 
 
-{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/bidizili.json","jar": "https://jihulab.com/OPG/bo/raw/main/A/xxtv.jar"},
+{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.githubusercontents.com/mu1978jun/KS/main/YY/xxtv.jar"},
 
 {"key":"轻简","name":"✂️简简采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
