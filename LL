@@ -36,6 +36,16 @@
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"},
 {"key":"csp_Bd","name":"🥋哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {
+			"key": "落叶",
+			"name": "🍃落叶APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://xn--yeta099v.online:66/api.php/app/"
+		},
+{
             "key": "玩偶1", 
             "name": "🤠玩偶APP", 
             "type": 3, 
