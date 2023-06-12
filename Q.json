@@ -6,6 +6,10 @@
             "name": "🏹自用线路"
         },
         {
+            "url": "https://raw.fastgit.org/mu1978jun/KS/main/Q.json",
+            "name": "🚀github自用日加速线路"
+        }, 
+        {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🚀XC线路"
         },
@@ -66,15 +70,6 @@
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀霜辉月明"
-        },
-        {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "🚀dxawi0线路"
-        },
-       
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀老刘备线路"
         }
     ]
 }
