@@ -24,6 +24,7 @@
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
+{"key":"Gitcafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","ext":"./lib/token.txt$$$https://wogg.xyz/$$$socks5://192.168.101.1:1080"},
 
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
