@@ -32,7 +32,7 @@
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"啊班","name":"😠啊班APP","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 {"key":"飞云","name":"🚁飞云资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://www.lfytyl.com/api.php/app/"}, 
-
+{"key":"csp_DuoX","name":"Ⓜ️多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"},
 {"key":"csp_Bd","name":"🥋哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
