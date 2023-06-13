@@ -3,7 +3,7 @@
   
 
   
-   "spider": "https://raw.githubusercontents.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;F29E9BC19D40C5D4CBB271EC41172C74",
+   "spider": "https://raw.githubusercontents.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;FD6A2CF8F31C7112731C5F90DAB94847",
    
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -25,7 +25,7 @@
 {"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 
-{"key":"WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","ext":"./lib/token.txt$$$https://wogg.xyz/$$$socks5://192.168.101.1:1080"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto+4k|fhd|4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 //{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt$$$http://wogg.xyz/"},
