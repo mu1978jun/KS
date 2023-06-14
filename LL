@@ -41,7 +41,7 @@
 {"key":"csp_DiDuan" ,"name":"🎷低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
-  {"key":"BuLei","name":"🦋布蕾","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://222.211.73.177:1868/api.php/app/"},
+  
 {"key": "csp_Lib","name": "⛳️Libvio影视","type": 3,"api": "csp_Libvio","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"如意","name":"😏如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
