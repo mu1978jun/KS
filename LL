@@ -79,15 +79,7 @@
                 "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
             }
         }, 
-{
-      "key": "MV_vod",
-      "name": "MV视频",
-      "type": 1,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod?maxCount=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }, 
+
 
 
 {"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.githubusercontents.com/mu1978jun/KS/main/YY/xxtv.jar"},
