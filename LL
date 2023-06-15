@@ -26,7 +26,6 @@
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$http://tvfan.xxooo.cf/"},
-{"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 
 
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
@@ -41,7 +40,7 @@
 {"key":"csp_DiDuan" ,"name":"🎷低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"电影港","name":"💫电影港湾","type":3,"api":"csp_XYQHiker","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/电影港.json","jar":"https://raw.iqiq.io/mu1978jun/KS/main/YY/xyq.jar"},
- {"key":"布雷蓝光","name":"⚡布雷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/bulei.json","jar":"https://agit.ai/hoxlove/hox/raw/branch/master/jar/XL.jar"}, 
+ {"key":"布雷蓝光","name":"⚡布雷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/bulei.json","jar":"https://raw.iqiq.io/mu1978jun/KS/main/YY/xyq.jar"},
 {"key": "csp_Lib","name": "⛳️Libvio影视","type": 3,"api": "csp_Libvio","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"如意","name":"😏如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
