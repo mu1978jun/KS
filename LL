@@ -25,6 +25,7 @@
 {"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
+{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$yingshi$$$abcd1234"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$http://tvfan.xxooo.cf/"},
 
 
