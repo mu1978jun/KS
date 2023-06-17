@@ -192,6 +192,8 @@
             "type": 3, 
             "url": "Web"
         }, 
+        {"name":"巨卡","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
+
         {
 		"name": "小新",
 		"type": 1,
