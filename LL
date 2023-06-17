@@ -187,11 +187,7 @@
             "type": 3, 
             "url": "Demo"
         }, 
-        {
-            "name": "聚合0", 
-            "type": 3, 
-            "url": "Web"
-        }, 
+        
         {"name":"巨卡","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
 
         {
