@@ -195,7 +195,7 @@
         {
 		"name": "小新",
 		"type": 1,
-		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afjklnouADGJLNPV12"
+		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afjklnouADGJLNPV12&url="
 	},
         {
             "name": "乌鸦", 
