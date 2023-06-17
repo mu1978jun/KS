@@ -268,23 +268,7 @@
                 "芒果"
             ]
         }, 
-        {
-            "name": "修改", 
-            "type": 1, 
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url=", 
-            "header": {
-                "User-Agent": "Dart/2.18 (dart:io)"
-            }, 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "youku", 
-                    "优酷", 
-                    "xigua"
-                ]
-            }
-        }, 
+        
         {
             "name": "虾米", 
             "url": "http://162.14.106.28/API.php?url=", 
