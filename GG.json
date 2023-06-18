@@ -5,15 +5,10 @@
    "spider": "https://raw.iqiq.io/mu1978jun/KS/main/YY/Yoursmile.jar;md5;09A472702BEFAECF58154F50533395FD",
    
    
-   "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
-   
+   "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+ "lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],  
 
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://jihulab.com/OPG/bo/raw/main/live",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-	    }],
+
  
   "sites":[
 
