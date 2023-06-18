@@ -30,13 +30,7 @@
 {"key":"飞云资源","name":"👒四咔资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://get.lfytyl.com/api.php/app/"},
 
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-{
-   "key": "cps_aliyunpan",
-   "name": "👩‍🔬┃玩偶┃妹妹",
-   "type": 3,
-   "api": "csp_XYQHikerAL",
-   "jar":"https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621",
-   "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
+
 {
             "key": "csp_FeiYun",
             "name": "⛅飞云影视",
