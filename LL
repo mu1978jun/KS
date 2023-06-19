@@ -45,7 +45,7 @@
 {"key":"迷你库","name":"🐁迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"平头哥","name":"🐡平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
 {"key":"聚合资源","name":"⛵乐乐4k","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"https://tv.ysle.cn/api.php/app/"},
-{"key": "酷影","name": "⏰泰泰APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.222.175.111:89/api.php/app/"},
+
 
 
 {"key":"暴风资源","name":"🌪暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
