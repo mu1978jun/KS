@@ -31,19 +31,22 @@
 
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
-
+{"key":"酷影","name":"🎸酷影","type":3,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
 {"key":"csp_DuoX","name":"Ⓜ️多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key": "落叶","name": "🍃落叶APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
+{"key":"聚合蓝光","name":"🔒咪咪4k","type":3,"api":"csp_XBPQ","playerType":"1","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/咪咪4k.json","jar":"https://raw.githubusercontents.com/mu1978jun/KS/main/YY/4.jar"},
+{"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+{"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{"key":"如意","name":"😏如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"},
 {"key":"csp_Bd","name":"🥋哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "落叶","name": "🍃落叶APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
-{"key":"聚合蓝光","name":"🔒咪咪4k","type":3,"api":"csp_XBPQ","playerType":"1","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/咪咪4k.json","jar":"https://raw.githubusercontents.com/mu1978jun/KS/main/YY/4.jar"},
-{"key":"csp_DiDuan" ,"name":"🎷低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+
+
 {"key":"布雷蓝光","name":"⚡布雷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/bulei.json","jar":"https://raw.iqiq.io/mu1978jun/KS/main/YY/XL.jar"},
 {"key": "csp_Lib","name": "⛳️Libvio影视","type": 3,"api": "csp_Libvio","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc"},
-{"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-{"key":"如意","name":"😏如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
 { "key": "csp_Lib", "name": "🚀利奥[SP]",    "type": 3, "api": "csp_Libvio",            "searchable": 1, "quickSearch": 1,            "filterable": 1, "ext": "https://tv.libvio.cc/"   },   
 
 {"key":"酷影","name":"🎸酷影","type":3,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
@@ -54,30 +57,7 @@
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Cokemv","name":"📕可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{
-            "key": "看看", 
-            "name": "🚬看看┃BPQ", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": {
-                "主页url": "https://kankanju.cc", 
-                "副标题": "pic-text text-right\">&&</b>", 
-                "搜索模式": "1", 
-                "搜索url": "https://kankanju.cc/rss.xml?wd={wd}", 
-                "搜索图片": "http://xhww.fun:63/小米/2.jpg", 
-                "嗅探词": "huoshanvod.com#mp4#m3u8", 
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放", 
-                "导演": "导演：&&</div>", 
-                "主演": "主演：&&</div>", 
-                "简介": "introduction-content\">&&</span>", 
-                "线路数组": "data-toggle=&&</li>", 
-                "跳转播放链接": "https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"", 
-                "二次跳转播放链接": "url*\"&&\"", 
-                "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#]", 
-                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian", 
-                "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
-            }
-        }, 
+
 
 
 
