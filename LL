@@ -43,9 +43,10 @@
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
 {"key":"北极狐","name":"🐺北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"迷你库","name":"🐁迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-	
-	
 {"key":"平头哥","name":"🐡平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
+{"key":"暴风资源","name":"🌌暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{"key":"量子","name":"🏈量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"非凡","name":"🛶非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_Bd","name":"🥋哔嘀影视(SP)","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 
@@ -71,36 +72,7 @@
 {"key":"轻简","name":"✂️简简采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
 {"key":"初语","name":"💬初语采集","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/"},
-{
-            "key": "暴风资源", 
-            "name": "🌌暴风采集", 
-            "type": 1, 
-            "api": "https://bfzyapi.com/api.php/provide/vod/", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "categories": [
-                "国产剧", 
-                "韩国剧", 
-                "香港剧", 
-                "台湾剧", 
-                "欧美剧", 
-                "动作片", 
-                "科幻片", 
-                "战争片", 
-                "奇幻片", 
-                "喜剧片", 
-                "爱情片", 
-                "恐怖片", 
-                "犯罪片", 
-                "悬疑片", 
-                "惊悚片", 
-                "剧情片", 
-                "冒险片", 
-                "记录片", 
-                "综艺", 
-                "动漫"
-            ]
-        }, 
+
 {
 			"key": "快看资源",
 			"name": "📺快看切片",
@@ -136,8 +108,7 @@
 {"key":"csp_Dy1010","name":"⏺双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key":"量子","name":"🏈量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"非凡","name":"🛶非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+
 {"key":"drpy_js_百忙无果","name":"🥝芒果视频","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/百忙无果.js"},
 {"key":"腾云驾雾","name":"🐧腾腾视频","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/腾云驾雾.js"},
 
