@@ -49,7 +49,7 @@
 
 { "key": "csp_Lib", "name": "🚀利奥[SP]",    "type": 3, "api": "csp_Libvio",            "searchable": 1, "quickSearch": 1,            "filterable": 1, "ext": "https://tv.libvio.cc/"   },   
 
-{"key":"酷影","name":"🎸酷影","type":3,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
+
 {"key":"360","name":"💘360影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"明明","name":"🍭影视明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
