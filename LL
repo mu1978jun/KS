@@ -28,7 +28,7 @@
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$yingshi$$$abcd1234"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$http://tvfan.xxooo.cf/"},
 {"key":"飞云资源","name":"👒影探资源","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"http://get.lfytyl.com/api.php/app/"},
-{"key": "XYQaL_4kHDR","name": "👩‍⚕️┃玩偶姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"https://raw.githubusercontents.com/mu1978jun/KS/main/YY/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://raw.githubusercontents.com/mu1978jun/KS/main/CC/4khdr.json"},	
+{"key": "XYQaL_4kHDR","name": "👩‍⚕️┃玩偶姐姐","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"https://raw.githubusercontents.com/mu1978jun/KS/main/YY/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://raw.githubusercontents.com/mu1978jun/KS/main/CC/4KHDR.json"},	
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
 {"key":"酷影","name":"🎸酷影","type":3,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
