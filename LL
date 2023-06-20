@@ -125,8 +125,7 @@
 {"key":"腾云驾雾","name":"🐧腾腾视频","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/腾云驾雾.js"},
 
 {"key":"奇珍异兽","name":"💜奇艺视频","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/奇珍异兽.js"},
-{"key":"MV_vod","name":"📀卡拉OK┃切换音轨去除原声","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0},
-{"key":"直播转点播","name":"电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json","changeable":0},
+
 
 
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/HYZB.js"},
