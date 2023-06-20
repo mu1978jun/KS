@@ -136,7 +136,7 @@
         }, 
           {"name":"解析1","type":1,"url":"http://json.jiexi.plus/api/?key=2742c1a811b0db75a0f2fcff2ada2336&url="},
         {"name":"巨卡","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
-
+ {"name": "窗外","type": 1,"url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url=","header": {"User-Agent": "Dart/2.14 (dart:io)"},"ext": {"flag": [ "qq", "腾讯", "youku", "hulihuli", "hulihuli-", "优酷" ]}},
         {
 		"name": "小新",
 		"type": 1,
