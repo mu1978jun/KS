@@ -2,71 +2,74 @@
     "urls": [
         
          {
-            "url": "https://jihulab.com/OPG/bo/raw/main/GO.json",
+            "url": "https://jihulab.com/OPG/bo/raw/main/GO.json"，
             "name": "🏹自用线路"
-        },
+        }，
         {
-            "url": "https://raw.iqiq.io/mu1978jun/KS/main/LL",
+            "url": "https://raw.iqiq.io/mu1978jun/KS/main/LL"，
             "name": "🚀github香港线路"
-        },
+        }，
 
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"，
             "name": "🚀XC线路"
-        },
+        }，
 {
-            "url": "https://weixine.net/ysc.json",
+            "url": "https://weixine.net/ysc.json"，
             "name": "🚀运输车"
-        },
+        }，
 {
-            "url": "https://agit.ai/abkier/box/raw/branch/main/0.json",
+            "url": "https://agit.ai/abkier/box/raw/branch/main/0.json"，
             "name": "🚀小胡阿里线路"
-        },
+        }，
 
         
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "url": "http://xhww.fun:63/小米/DEMO.json"，
             "name": "🚀小米"
-        }, 
+        }， 
         {
-            "url": "http://饭太硬.ml/tv",
+            "url": "http://饭太硬.ml/tv"，
             "name": "🚀饭太硬线路"
-        },                      
+        }，                      
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖"，
             "name": "🚀肥猫线路"
-        },        
+        }，        
         {
-            "url": "http://tvbo.run.goorm.site/tangs.json",
+            "url": "http://tvbo.run.goorm.site/tangs.json"，
             "name": "🚀唐三线路"
-        },
+        }，
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"，
             "name": "🚀蜂蜜线路"
-        },                                                               
-        
+        }，                                                               
         {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🚀菜妮丝线路"
-        },
-        {
-            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
-            "name": "🚀香雅情线路"
-        },        
-        {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🚀巧技线路"
-        },
-        {
-            "url": "http://101.34.67.237/config/1",
-            "name": "🚀小雅线路"
-        },
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊佬线路"
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🚀吾爱"
         }, 
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://tvbox.cainisi.cf"，
+            "name": "🚀菜妮丝线路"
+        }，
+        {
+            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json"，
+            "name": "🚀香雅情线路"
+        }，        
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"，
+            "name": "🚀巧技线路"
+        }，
+        {
+            "url": "http://101.34.67.237/config/1"，
+            "name": "🚀小雅线路"
+        }，
+        {
+            "url": "http://home.jundie.top:81/top98.json"，
+            "name": "🚀俊佬线路"
+        }， 
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"，
             "name": "🚀霜辉月明"
         }
         
