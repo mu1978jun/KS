@@ -249,34 +249,7 @@
                 "Referer": "https://jx.baiyu521.xyz/"
             }
         }, 
-        {
-            "name": "黄黄", 
-            "type": 1, 
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&format=json&url=", 
-            "User-Agent": "Dart/2.18 (dart:io)", 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "yk", 
-                    "CL4K", 
-                    "renrenmi", 
-                    "ltnb", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
-                ]
-            }
-        }, 
+     
         {
             "name": "左岸", 
             "type": 0, 
