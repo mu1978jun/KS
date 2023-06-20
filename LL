@@ -134,7 +134,15 @@
             "type": 3, 
             "url": "Demo"
         }, 
-          {
+        {
+		"name": "未知",
+		"type": 1,
+		"url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
+		"ext": {
+			"flag": ["qq","腾讯","youku","hulihuli","hulihuli-","优酷"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}
+		}   
+	},  
+{
             "name": "飞云🌳",
             "type": 0,
             "url": "https://www.kankanju.cc/f/jxplayer.php?v=",
