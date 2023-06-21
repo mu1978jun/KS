@@ -38,7 +38,7 @@
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 {"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-{"key": "ok","name": "📢Free","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xhww.fun:63/小米/源/free.json"},
+{"key": "ok","name": "📢Free","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/free.json"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
 {"key":"北极狐","name":"🐺北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
