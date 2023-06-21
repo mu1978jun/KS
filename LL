@@ -44,7 +44,7 @@
 {"key":"北极狐","name":"🐺北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"迷你库","name":"🐁迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"平头哥","name":"🐡平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
-{"key":"聚合资源","name":"⛵乐乐4k","type":3,"api":"csp_AppYsV2","playerType":"1","ext":"https://tv.ysle.cn/api.php/app/"},
+
 {"key":"dx资源","name":"💮多姿","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
 {"key":"饭团影视","name":"🍙饭团4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/fantuan.json"},
 
