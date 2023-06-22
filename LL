@@ -3,7 +3,7 @@
   
 
   
-   "spider": "https://raw.iqiq.io/mu1978jun/KS/main/YY/Yoursmile.jar;md5;A4C63FE74439B399CCD4EAAF4C639588",
+   "spider": "https://raw.fastgit.org/mu1978jun/KS/YY/Yoursmile.jar;md5;A4C63FE74439B399CCD4EAAF4C639588",
    
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -46,7 +46,7 @@
 {"key":"平头哥","name":"🐡平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
 
 {"key":"dx资源","name":"💮多姿","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
-{"key":"饭团影视","name":"🍙饭团4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/fantuan.json"},
+{"key":"饭团影视","name":"🍙饭团4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/mu1978jun/KS/CC/fantuan.json"},
 
 {"key":"暴风资源","name":"🌪暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 {"key":"量子","name":"🏈量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
@@ -71,7 +71,7 @@
 
 
 
-{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.iqiq.io/mu1978jun/KS/main/YY/xxtv.jar"},
+{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/mu1978jun/KS/CC/bidizili.json","jar": "https://raw.fastgit.org/mu1978jun/KS/YY/xxtv.jar"},
 
 {"key":"轻简","name":"✂️简简采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
@@ -113,14 +113,14 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 
-{"key":"drpy_js_百忙无果","name":"🥝芒果视频","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/百忙无果.js"},
-{"key":"腾云驾雾","name":"🐧腾腾视频","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"🥝芒果视频","type":3,"api":"https://raw.fastgit.org/mu1978jun/KS/CC/lib/drpy2.min.js","ext":"https://raw.fastgit.org/mu1978jun/KS/CC/百忙无果.js"},
+{"key":"腾云驾雾","name":"🐧腾腾视频","type":3,"api":"https://raw.fastgit.org/mu1978jun/KS/CC/lib/drpy2.min.js","ext":"https://raw.fastgit.org/mu1978jun/KS/CC/腾云驾雾.js"},
 
-{"key":"奇珍异兽","name":"💜奇艺视频","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/奇珍异兽.js"},
+{"key":"奇珍异兽","name":"💜奇艺视频","type":3,"api":"https://raw.fastgit.org/mu1978jun/KS/CC/lib/drpy2.min.js","ext":"https://raw.fastgit.org/mu1978jun/KS/CC/奇珍异兽.js"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/HYZB.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.fastgit.org/mu1978jun/KS/CC/HYZB.js"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/douyu.json"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
 
