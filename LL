@@ -12,7 +12,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://raw.iqiq.io/mu1978jun/KS/main/live",
+		    "url": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/live",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
 	    }],
  
@@ -28,7 +28,7 @@
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$yingshi$$$abcd1234"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|fhd|4k$$$http://tvfan.xxooo.cf/"},
 {"key":"影探4K","name":"💧影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
-//{"key": "XYQaL_4kHDR","name":"👩‍⚕️玩偶弟弟","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"https://raw.iqiq.io/mu1978jun/KS/main/YY/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/4KHDR.json"},
+//{"key": "XYQaL_4kHDR","name":"👩‍⚕️玩偶弟弟","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/4KHDR.json"},
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key": "酷酷","name": "📢酷酷","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key":"酷影","name":"🎸酷影","type":3,"api":"csp_AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
@@ -38,7 +38,7 @@
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 {"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-{"key": "ok","name": "📢Free","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/free.json"},
+{"key": "ok","name": "📢Free","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/free.json"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
 {"key":"北极狐","name":"🐺北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
@@ -54,7 +54,7 @@
 
 
 
-{"key":"布雷蓝光","name":"⚡布雷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/bulei.json","jar":"./YY/XL.jar"},
+{"key":"布雷蓝光","name":"⚡布雷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/bulei.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/XL.jar"},
 {"key": "csp_Lib","name": "⛳️Libvio影视","type": 3,"api": "csp_Libvio","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc"},
 
 { "key": "csp_Lib", "name": "🚀利奥[SP]",    "type": 3, "api": "csp_Libvio",            "searchable": 1, "quickSearch": 1,            "filterable": 1, "ext": "https://tv.libvio.cc/"   },   
