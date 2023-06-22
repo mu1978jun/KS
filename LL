@@ -126,12 +126,52 @@
 ],
 
   "parses": [
-        {
-            "name": "聚合1", 
-            "type": 3, 
-            "url": "Demo"
-        }, 
-     {
+    {
+      "name": "播不了",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "爱酷",
+      "type": 1,
+      "url": "https://api.json.icu//api//?key=91fd3cbe3887f18438249c78149fa605&url=",
+      "User-Agent": "Dart/2.18 (dart:io)",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "yk",
+          "mgtv",
+          "芒果",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
       "name": "小书",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
@@ -165,8 +205,48 @@
           "xigua"
         ]
       }
-    },   
-{
+    },
+    {
+      "name": "小黄人",
+      "type": 1,
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=",
+      "User-Agent": "Dart/2.18 (dart:io)",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "yk",
+          "mgtv",
+          "芒",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "BAGY",
+          "SLYS4K",
+          "DM-FT1",
+          "DM-FT3",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "http://www.yemu.xyz/?url="
+    },
+    {
       "name": "随便",
       "type": 1,
       "url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url=",
@@ -201,160 +281,186 @@
         ]
       }
     },
-{
-            "name": "飞云🌳",
-            "type": 0,
-            "url": "https://www.kankanju.cc/f/jxplayer.php?v=",
-            "flag": [
-                "Feiyun-",
-                "mgtv",
-                "芒果"
-            ]
-        },
-{"name":"解析1","type":1,"url":"http://json.jiexi.plus/api/?key=2742c1a811b0db75a0f2fcff2ada2336&url="},
-        {"name":"巨卡","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
- {"name": "窗外","type": 1,"url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url=","header": {"User-Agent": "Dart/2.14 (dart:io)"},"ext": {"flag": [ "qq", "腾讯", "youku", "hulihuli", "hulihuli-", "优酷" ]}},
-        {
-		"name": "小新",
-		"type": 1,
-		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afjklnouADGJLNPV12&url="
-	},
-        {
-            "name": "乌鸦", 
-            "type": 1, 
-            "url": "http://xhww.fun:63/乌鸦.php?url=", 
-            "User-Agent": "okhttp/3.12.0", 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "ruyi4K", 
-                    "腾讯", 
-                    "hgvip", 
-                    "hgyx", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "XAl", 
-                    "yk", 
-                    "mgtv", 
-                    "imgo", 
-                    "芒果", 
-                    "CL4K", 
-                    "renrenmi", 
-                    "hulihuli-", 
-                    "ltnb", 
-                    "bilibili", 
-                    "BAGY", 
-                    "SLYS4K", 
-                    "DM-FT1", 
-                    "DM-FT3", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
-                ]
-            }
-        }, 
-        {
-            "name": "mosangkeji", 
-            "type": 1, 
-            "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=", 
-            "header": {
-                "User-Agent": "Dart/2.14 (dart:io)"
-            }, 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "youku", 
-                    "hulihuli", 
-                    "hulihuli-", 
-                    "优酷"
-                ]
-            }
-        }, 
-        {
-            "name": "255解芒果", 
-            "type": 1, 
-            "url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=", 
-            "flag": [
-                "imgo", 
-                "mgtv", 
-                "芒果"
-            ]
-        }, 
-        
-        {
-            "name": "虾米", 
-            "url": "http://162.14.106.28/API.php?url=", 
-            "type": 1, 
-            "ext": {
-                "flag": [
-                    "qiyi", 
-                    "imgo", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "qq", 
-                    "腾讯", 
-                    "youku", 
-                    "优酷", 
-                    "pptv", 
-                    "PPTV", 
-                    "letv", 
-                    "乐视", 
-                    "leshi", 
-                    "bilibili", 
-                    "哔哩哔哩", 
-                    "哔哩", 
-                    "mgtv", 
-                    "芒果", 
-                    "sohu", 
-                    "xigua", 
-                    "fun", 
-                    "风行"
-                ], 
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }, 
-            "header": {
-                "Referer": "https://jx.baiyu521.xyz/"
-            }
-        }, 
-     
-        {
-            "name": "左岸", 
-            "type": 0, 
-            "url": "https://jx.jsonplayer.com/player/?url=", 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "yk", 
-                    "CL4K", 
-                    "renrenmi", 
-                    "ltnb", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
-                ]
-            }
+    {
+      "name": "悟饭",
+      "type": 1,
+      "url": "http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
+      "User-Agent": "Dart/2.18 (dart:io)",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "yk",
+          "mgtv",
+          "芒",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "BAGY",
+          "SLYS4K",
+          "DM-FT1",
+          "DM-FT3",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "bitefu",
+      "type": 0,
+      "url": "https://tool.bitefu.net/video/?url="
+    },
+    {
+      "name": "小新",
+      "type": 1,
+      "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=mprsyzDEIJMQV01356&url=",
+      "User-Agent": "Dart/2.18 (dart:io)",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "yk",
+          "mgtv",
+          "芒",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "BAGY",
+          "SLYS4K",
+          "DM-FT1",
+          "DM-FT3",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": ""
         }
-    ], 
+      }
+    },
+    {
+      "name": "喵喵",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="
+    },
+    {
+      "name": "咪咪",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Dart/2.18 (dart:io)"
+        }
+      }
+    },
+    {
+      "name": "呦呦",
+      "type": 1,
+      "url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url="
+    },
+    {
+      "name": "乐乐",
+      "type": 1,
+      "url": "http://110.42.2.247:880//analysis//json//?uid=2373&my=fgimDLMOQTUWYZ0568&url="
+    },
+    {
+      "name": "嗅探json",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "嗅探jxdp",
+      "type": 0,
+      "url": "https://jxdp.codermart.net/?url="
+    },
+    {
+      "name": "嗅探bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url="
+    },
+    {
+      "name": "嗅探777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "xmflv嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "renrenmi",
+    "优酷",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "ltnb",
+    "rx",
+    "CL4K",
+    "xfyun",
+    "wuduzy"
+  ],
     "doh": [
         {
             "name": "Google", 
