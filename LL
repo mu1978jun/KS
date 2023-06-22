@@ -71,7 +71,7 @@
 
 
 
-{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/mu1978jun/KS/CC/bidizili.json","jar": "https://raw.fastgit.org/mu1978jun/KS/YY/xxtv.jar"},
+{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/bidizili.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/xxtv.jar"},
 
 {"key":"轻简","name":"✂️简简采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
 
@@ -108,7 +108,7 @@
 			]
 		},
 
-{"key":"drpy_js_农民","name":"👳🏿‍♂️影视农民","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/农民影视.js"},
+{"key":"drpy_js_农民","name":"👳🏿‍♂️影视农民","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/农民影视.js"},
 {"key":"csp_Dy1010","name":"⏺双十电影","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
