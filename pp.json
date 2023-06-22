@@ -119,7 +119,9 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/libs/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/HYZB.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js",
+      "ext": "https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/虎牙直播.js"
+    },
 {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/douyu.json"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
 
