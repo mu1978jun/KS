@@ -114,7 +114,7 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/奇珍异兽.js"},
-
+{"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/百忙无果.js"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
 
@@ -131,7 +131,76 @@
             "type": 3, 
             "url": "Demo"
         }, 
-        
+     {
+      "name": "小书",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "User-Agent": "okhttp/3.12.0",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "yk",
+          "mgtv",
+          "芒",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "BAGY",
+          "SLYS4K",
+          "DM-FT1",
+          "DM-FT3",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },   
+{
+      "name": "随便",
+      "type": 1,
+      "url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url=",
+      "User-Agent": "Dart/2.18 (dart:io)",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "yk",
+          "mgtv",
+          "芒",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "BAGY",
+          "SLYS4K",
+          "DM-FT1",
+          "DM-FT3",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
 {
             "name": "飞云🌳",
             "type": 0,
