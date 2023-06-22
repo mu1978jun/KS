@@ -19,7 +19,7 @@
 
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
-{"key":"dr_豆瓣","name":"🍂豆瓣荐片(js)","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"🍂豆瓣荐片(js)","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
@@ -112,14 +112,14 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 
-{"key":"drpy_js_百忙无果","name":"🥝芒果视频","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/百忙无果.js"},
-{"key":"腾云驾雾","name":"🐧腾腾视频","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"🥝芒果视频","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/libs/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/百忙无果.js"},
+{"key":"腾云驾雾","name":"🐧腾腾视频","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/libs/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/腾云驾雾.js"},
 
-{"key":"奇珍异兽","name":"💜奇艺视频","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/奇珍异兽.js"},
+{"key":"奇珍异兽","name":"💜奇艺视频","type":3,"api":"https://cdn.staticaly.com/gh/mu1978jun/KS/main/CC/libs/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/奇珍异兽.js"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/HYZB.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/libs/drpy2.min.js","ext":"https://raw.githubusercontents.com/mu1978jun/KS/main/CC/HYZB.js"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/douyu.json"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
 
