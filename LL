@@ -27,6 +27,13 @@
       "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
       "ext": "https://gitee.com/zhen169/ikdd/raw/master/douban.js"
     },
+{
+      "key": "drpy_豆辩",
+      "name": "🏘️热播榜单",
+      "type": 3,
+      "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
+      "ext": "https://gitee.com/zhen169/ikdd/raw/master/douban.js"
+    },
 {"key":"豆瓣","name":"🍂豆瓣荐片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/douban.js"},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|fhd|4k"},
