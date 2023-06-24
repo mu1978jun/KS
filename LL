@@ -51,13 +51,7 @@
 {"key":"csp_DuoX","name":"Ⓜ️多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"adv3","name":"🌐秒播V3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"东方","name":"🌅东方影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
-{
-      "key": "XBPQ_飞云",
-      "name": "♈白嫖┃几天",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://shuyuan.miaogongzi.net/shuyuan/1687208729.json"
-    },
+
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 {"key":"多米","name":"🍚多米蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
