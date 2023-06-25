@@ -21,11 +21,12 @@
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
 {
-      "key": "drpy_豆辩",
-      "name": "🏘️热播┃榜单",
+      "key": "aikanbot",
+      "name": "影视爱看机器人",
       "type": 3,
-      "api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
-      "ext": "https://gitee.com/zhen169/ikdd/raw/master/douban.js"
+      "api": "https://qu.ax/eTKm.js",
+      "searchable": 1,
+      "quickSearch": 1
     },
 {
       "key": "drpy_豆辩",
