@@ -42,7 +42,7 @@
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key": "酷酷","name": "📢酷酷","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key":"车姐4K","name":"❤酷影4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
-{"key": "云云资源", "name": "💧云云4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/yunyun.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/小暴脾气5.jar"},
+{"key": "云云资源", "name": "💧云云4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/yunyun.json","jar": "https://jihulab.com/OPG/bo/raw/main/A/小暴脾气5.jar"},
 {"key":"csp_DuoX","name":"Ⓜ️多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"adv3","name":"🌐秒播V3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"东方","name":"🌅东方影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
