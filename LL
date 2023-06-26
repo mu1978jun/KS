@@ -3,7 +3,7 @@
   
 
   
-   "spider": "./YY/custom_spider.jar",
+   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;FDE01B569724386E7C72C675BA7D9658",
    
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
