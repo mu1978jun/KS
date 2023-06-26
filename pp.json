@@ -2,8 +2,8 @@
   
 
   
-   "spider": "https://cdn.staticaly.com/gh/mu1978jun/KS/main/YY/Yoursmile.jar;md5;A4C63FE74439B399CCD4EAAF4C639588",
-   
+   //"spider": "https://cdn.staticaly.com/gh/mu1978jun/KS/main/YY/Yoursmile.jar;md5;A4C63FE74439B399CCD4EAAF4C639588",
+   "spider": "./YY/custom_spider.jar",
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
    
