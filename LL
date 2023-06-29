@@ -60,7 +60,7 @@
 {"key":"平头哥","name":"🐡平头哥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pingtouge.top/ruifenglb_api.php/v1.vod"},
 {"key":"明帝","name":"🔱秒播明帝","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 
-{"key":"饭团影视","name":"🍙饭团4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/fantuan.json"},
+{"key":"饭团影视","name":"🍙饭团4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/fantuan.json"},
 {"key":"新浪资源","name":"🎡新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["大陆剧","韩剧","港澳剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 {"key":"暴风资源","name":"🌪暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 {"key":"量子","name":"🏈量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
@@ -131,7 +131,7 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/HYZB.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/HYZB.js"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
 
 
