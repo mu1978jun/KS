@@ -3,7 +3,7 @@
   
 
   
-   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;FDE01B569724386E7C72C675BA7D9658",
+   "spider": "https://raw.iqiq.io/mu1978jun/KS/main/YY/Yoursmile.jar;md5;FDE01B569724386E7C72C675BA7D9658",
    
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -12,7 +12,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/live",
+		    "url": "https://raw.iqiq.io/mu1978jun/KS/main/live",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
 	    }],
  
