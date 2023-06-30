@@ -129,7 +129,7 @@
 {"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/奇珍异兽.js"},
 {"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/百忙无果.js"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.5.227:4592"},
 
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/HYZB.js"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
