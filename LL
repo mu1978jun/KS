@@ -40,7 +40,7 @@
 {"key":"csp_AppYsV2_影探","name":"🗽影探备用","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 //{"key": "XYQaL_4kHDR","name":"👩‍⚕️玩偶弟弟","type": 3,"playerType": 1,"api": "csp_XYQHikerAL","jar":"https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621","ext": "https://ghproxy.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/4KHDR.json"},
-
+{"key": " SD4K","name": " ⚡SD4K","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://api.sd4k.cc:666/api/cj.php/?key=Vj6beRtOhkWDFMxxN7&ac=list"},
 {"key": "酷酷","name": "📢酷酷","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key":"车姐4K","name":"❤酷影4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 
