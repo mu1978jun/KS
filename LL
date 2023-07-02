@@ -54,7 +54,7 @@
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {
       "key": "yunyun",
-      "name": "️芸芸┃BPQ",
+      "name": "️⛏芸芸BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
