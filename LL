@@ -60,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://xhww.fun:63/小米/源/爱肥猫.json","jar": "https://raw.iqiq.io/mu1978jun/KS/main/YY/小爆脾气6.jar"},
+      "ext": "http://xhww.fun:63/小米/源/爱肥猫.json","jar": "https://raw.iqiq.io/mu1978jun/KS/main/YY/小暴脾气6.jar"},
     
 
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
