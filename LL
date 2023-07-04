@@ -12,7 +12,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://raw.iqiq.io/mu1978jun/KS/main/live",
+		    "url": "https://raw.kgithub.com/mu1978jun/KS/main/live",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
 	    }],
  
