@@ -44,7 +44,7 @@
 {"key": "厂长","name": "🍭厂长直连","type": 3,"api": "csp_Czsapp","playerType": 2,"ext": "https://czzy.art/"},
 
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-
+{"key": "yunyun","name": "🌤️芸芸BPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/yunyun.json","jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/小暴脾气7.jar"},
 {"key":"爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
     
@@ -138,17 +138,40 @@
 {"name":"Demo聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
  
-{"name":"☑777","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"☑B站","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"☑如意","type":1,"url":"https://api.maoyingshi.cc/home/api?type=MYS4k&uid=5218622&key=abgikluxBCEIMNSV04&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+
+
 {"name":"☑SD","type":1,"url":"http://api.sd4k.cc:666/api/?key=Vj6beRtOhkWDFMxxN7&type=m3u8&url=","ext":{"flag":["SD4K"],"header": {"User-Agent": "Mozilla/5.0"}}},
 {"name":"☑云涌","type":1,"url":"https://ys.uiovo.com/api/?key=6862de8fba9a0b7fb71774c73e488f77&url="},
-{"name": "☑芒腾","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": ""}}},
-{"name": "☑腾讯","type": 1,"url": "http://lanlan.ckflv.cn/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "Mozilla/5.0"}}},
-{"name": "小新提供","type": 1,"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=3169078&key=fghjlnqvDFHMPQSU28&url="},
-{"name": "-酷影大气-","type": 1,"url": "http://svip.realdou.cn/home/api?type=ys&uid=1879248&key=kmnopruvxzILPQRS78&url=","ext": {"flag": ["ky4k","kuying","哔哩"]}},
 
-{"name":"猫猫","type":1,"url":"https://api.maoyingshi.cc/home/api?type=MYS4k&uid=5218622&key=abgikluxBCEIMNSV04&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},  
+
+  
+ {
+      "name": "稻香🌾",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=",
+      "flag": [
+        "mgtv",
+        "qiyi",
+        "imgo",
+        "爱奇艺",
+        "奇艺",
+        "qq",
+        "腾讯",
+        "youku",
+        "优酷",
+        "pptv",
+        "PPTV",
+        "letv",
+        "乐视",
+        "leshi",
+        "bilibili",
+        "哔哩哔哩",
+        "哔哩",
+        "mgtv",
+        "芒果",
+        "芒果"
+      ]
+    },
 {
       "name": "✌️夜曲",
       "type": 1,
