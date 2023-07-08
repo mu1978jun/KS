@@ -21,7 +21,16 @@
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
 {"key":"py_douban","name":"🍊┃豆瓣🍊","type":3,"api":"py_douban","changeable":1,"searchable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/douban.py"},
-
+{
+      "key": "csp_Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/x/json/bilibili.json"
+    },
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 
 {"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
