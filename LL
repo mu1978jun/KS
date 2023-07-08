@@ -142,7 +142,7 @@
 
  
 {
-      "name": "刚佬",
+      "name": "🚀刚佬",
       "type": 1,
       "url": "http://json.g9.pub:66/?url=",
       "ext": {
