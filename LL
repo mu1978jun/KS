@@ -36,7 +36,7 @@
 {"key":"csp_如意4K","name":" 💫如意 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_AppYsV2_影探","name":"🗽影探备用","type":3,"api":"csp_AppYsV2","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
-
+{"key":"csp_DuoX","name":"📝多线4K","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1,"categories":["飞云4K","电视剧","电影","动漫","综艺"]},    
 {"key": "酷酷","name": "📢酷酷","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key":"车姐4K","name":"❤酷影4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
 {"key": "小艺","name": "📡小艺4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://lg.tvcms.top/api.php/app/"},
