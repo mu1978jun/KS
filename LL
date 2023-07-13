@@ -3,7 +3,7 @@
   
 
   
-   "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;A36810DCFEEC9BBE22EE9B5DD40B03A2",
+   "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;9C583833C9809E13D924E3A2E27A2ED3",
    
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
