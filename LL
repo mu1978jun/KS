@@ -178,6 +178,7 @@
 {"name":"飞云官解","type":1,"url":"https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","User-Agent":"okhttp/3.12.0","flag":["FY"]},
 {"name":"☑SD","type":1,"url":"http://api.sd4k.cc:666/api/?key=Vj6beRtOhkWDFMxxN7&type=m3u8&url=","ext":{"flag":["SD4K"],"header": {"User-Agent": "Mozilla/5.0"}}},
 {"name":"☑云涌","type":1,"url":"https://ys.uiovo.com/api/?key=6862de8fba9a0b7fb71774c73e488f77&url="},
+{"name": "🐠小鱼", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
 {
       "name": "4K专线2",
       "type": 1,
