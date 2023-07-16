@@ -3,7 +3,7 @@
   
 
   
-   "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;9C583833C9809E13D924E3A2E27A2ED3",
+   "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/Yoursmile.jar;md5;4453EEF4A37BF38F165F0993FAC28F52",
    
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -39,7 +39,7 @@
    
 {"key": "酷酷","name": "📢酷酷","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key":"车姐4K","name":"❤酷影4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"]},
-
+{"key":"芸芸","name":"💢️芸芸","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/云云.json"},
 
 {"key":"adv3","name":"🌐秒播V3","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 
