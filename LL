@@ -44,7 +44,16 @@
 {"key": "厂长","name": "🍭厂长直连","type": 3,"api": "csp_Czsapp","playerType": 2,"ext": "https://czzy.art/"},
 
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-
+{
+      "key": "888解忧愁",
+      "name": "解忧愁-T4",
+      "type": 4,
+      "api": "https://private--t410.repl.co/888",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
 
 
 
