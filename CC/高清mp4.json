@@ -1,0 +1,16 @@
+{
+"首页":"电视剧",
+
+"数组":" class=\"thumbnail\"&&</div>",
+
+"图片":"src=\"&&\"",
+//"副标题":"pic-text text-right\"&&</span>",
+"链接":"href=\"&&\"",
+"标题":"title=\"&&\"",
+
+
+"分类":"动作片&电视剧&战争片&喜剧片&爱情片&科幻片&剧情片&惊悚片&灾难片&罪案片&综艺&动漫",
+"分类值":"action&sitcoms&war&comedy&love&science&story&thriller&disaster&crime&variety&cartoon",
+"分类url":"https://www.97tvs.com/{cateId}/page/{catePg}"   
+    }
+   
