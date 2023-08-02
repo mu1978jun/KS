@@ -45,30 +45,7 @@
 {"key": "厂长","name": "🍭厂长直连","type": 3,"api": "csp_Czsapp","playerType": 2,"ext": "https://czzy.art/"},
 
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
-{"key":"gaomp4","name":"高清美画","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/高清mp4.json",
-"jar":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/小暴脾气10.jar"},
-{
-            "key": "lf_js_search",
-            "name": "路飞搜索 | lf_search",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "api": "https://qu.ax/dmMW.js"
-},
-{
-    "key": "lf_js_p2p",
-    "name": "路飞_磁力搜索 ",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "quickSearch": 1,
-    "filterable": 1, 
-    "recordable": 0,
-    "api": "https://qu.ax/Gebl.js",
-    "ext": ""
- },
+
 
 
 
