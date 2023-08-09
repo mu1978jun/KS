@@ -38,7 +38,14 @@
 
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 {"key":"解忧愁","name":"道长解忧愁🚀","type":4,"api":"https://public.t4tv.hz.cz/888","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},       
- {
+ { "key": "小鹿",
+            "name": "🦖小鹿高清",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+            "分类":"电影$1#电视剧$31#动漫$4#综艺$3" ,
+            "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"}},    
+{
       "key": "csp_AList_Alist",
       "name": "🍰小鸭┃网盘",
       "type": 3,
