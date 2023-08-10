@@ -40,7 +40,7 @@
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
 {"key":"解忧愁","name":"道长解忧愁🚀","type":4,"api":"https://public.t4tv.hz.cz/888","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},       
  { "key": "小鹿",
-            "name": "🦖小鹿高清",
+            "name": "🐝小鹿高清",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
