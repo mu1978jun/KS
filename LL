@@ -35,7 +35,7 @@
 {"key": "探探","name": "👿影探","type": 3,"playerType": "1","api": "csp_YT","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;43d5af5fc45bbff83ae54e4f3fe703e5"},
 {
     "key":"csp_woggcli",
-    "name":"📶俊哥玩偶┃CLi",
+    "name":"📶俊哥玩偶",
     "type":4,
     "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
     "searchable":1,
