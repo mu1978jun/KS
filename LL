@@ -41,12 +41,26 @@
     },
 {"key": "探探","name": "👿影探","type": 3,"playerType": "1","api": "csp_YT","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;43d5af5fc45bbff83ae54e4f3fe703e5"},
 //{"key":"csp_woggcli","name":"📶俊哥玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=蓝光,原画,超清,高清&token=内置token","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
+ {
+      "key": "ruyi",
+      "name": "👑如意4K👑",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ],
 {"key":"一龙高清","name":"🐲翼龙高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/一龙高清影视.json"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
-{"key":"解忧愁","name":"道长解忧愁🚀","type":4,"api":"https://public.t4tv.hz.cz/888","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},       
+     
  { "key": "小鹿",
             "name": "🐝小鹿高清",
             "type": 3,
