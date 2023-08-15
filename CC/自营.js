@@ -18,8 +18,8 @@ var rule = {
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/3.0 (dart:io)'},
 	timeout:5000,
-	class_name:'动漫&电视剧&电影&综艺', // 分类筛选 /api.php/app/nav
-	class_url:'4&2&1&3',
+	class_name:'电影&电视剧&综艺&动漫', // 分类筛选 /api.php/app/nav
+	class_url:'1&2&3&4',
 	play_parse:true,
 	lazy:'js:if(/m3u8|mp4/.test(input)){input}else{let purl=request(""+input);input={jx:0,url:JSON.parse(purl).url,parse:0}}',
 	limit:6,
