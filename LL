@@ -36,7 +36,7 @@
       "name": "👑新夜4k👑",
       "type": 3,
       "playerType": 1,
-      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/drpy2.min.js",
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/影探V2.js"
     },
  {
