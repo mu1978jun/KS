@@ -39,7 +39,14 @@
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%BD%B1%E6%8E%A2_V2_1.js"
     },
-{"key": "探探","name": "👿影探","type": 3,"playerType": "1","api": "csp_YT","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;43d5af5fc45bbff83ae54e4f3fe703e5"},
+ {
+      "key": "AppYs_yumi",
+      "name": "👑夜猫至臻👑",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%A4%9C%E7%8C%AB%E8%87%B3%E8%87%BB.js"
+    },
 //{"key":"csp_woggcli","name":"📶俊哥玩偶","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=蓝光,原画,超清,高清&token=内置token","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
  {
       "key": "ruyi",
