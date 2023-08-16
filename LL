@@ -38,8 +38,9 @@
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=蓝光,原画,超清,高清",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
+      "filterable": 1,
+    "ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
+
 {
       "key": "xymzyt",
       "name": "👑新夜4k👑",
