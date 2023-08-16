@@ -31,15 +31,7 @@
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$yingshi$$$abcd1234"},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
- {
-      "key": "csp_woggcli",
-      "name": "👑夜猫哥哥4K👑",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=蓝光,原画,超清,高清",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-    "ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
+ 
 
 {
       "key": "xymzyt",
