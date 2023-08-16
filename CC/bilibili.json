@@ -5,7 +5,10 @@
       "type_name": "美食",
       "type_id": "美食超清"
     },
-   
+   {
+      "type_name": "日本",
+      "type_id": "超清日本"
+    },
     {
       "type_name": "风景",
       "type_id": "风景4K"
