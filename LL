@@ -45,7 +45,7 @@
     },
 {
       "key": "py_meishi",
-      "name": "🅱️bilibili合集",
+      "name": "🅱️哔哩哔哩合集",
       "type": 3,
       "api": "py_meishi",
       "searchable": 0,
