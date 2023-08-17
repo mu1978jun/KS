@@ -160,7 +160,16 @@
 
 
 {"key": "csp_Lib","name": "⛳️Libvio影视","type": 3,"api": "csp_Libvio","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc"},
-
+{
+      "key": "py_meishi",
+      "name": "🅱️┃美食┃合集",
+      "type": 3,
+      "api": "py_meishi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/美食合集.py"
+    },
 
 
 
