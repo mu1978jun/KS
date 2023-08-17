@@ -32,7 +32,7 @@ var rule = {
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
     filter_def:{
         经典无损音乐合集:{tid:'经典无损音乐合集'},
-        帕梅拉:{tid:'帕梅拉'},
+        美食:{tid:'美食'},
         太极拳:{tid:'太极拳'},
         健身:{tid:'健身'},
         舞蹈:{tid:'舞蹈'},
