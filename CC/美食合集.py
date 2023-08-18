@@ -41,7 +41,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 
 
         }
-      
         classes = []
         for k in cateManual:
             classes.append({
