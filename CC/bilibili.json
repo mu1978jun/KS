@@ -6,15 +6,38 @@
       "type_id": "美食超清"
     },
    {
-      "type_name": "日本",
-      "type_id": "超清日本"
-    },
-    {
-      "type_name": "日本美食",
+      "type_name": "大胃女王",
       "type_id": "胃女王吃遍日本"
     },
     {
-      "type_name": "荒野",
+      "type_name": "漫步日本",
+      "type_id": "超清日本"
+    },
+    {
+      "type_name": "漫步韩国",
+      "type_id": "漫步韩国"
+    },
+    
+     {
+      "type_name": "漫步台湾",
+      "type_id": "漫步台湾"
+    },
+     {
+      "type_name": "漫步香港",
+      "type_id": "漫步香港"
+    },
+    {
+      "type_name": "综艺",
+      "type_id": "综艺"
+    },
+    
+    
+    {
+      "type_name": "荒野求生",
+      "type_id": "荒野求生"
+    },
+    {
+      "type_name": "荒野独居",
       "type_id": "荒野独居"
     },
     {
@@ -2229,7 +2252,7 @@
         ]
       }
     ],
-    "平面设计教学": [
+    "综艺": [
       {
         "key": "order",
         "name": "排序",
@@ -2261,57 +2284,31 @@
         "name": "分类",
         "value": [
           {
-            "n": "全部",
-            "v": "平面设计教学"
+            "n": "音乐",
+            "v": "音乐"
           },
           {
-            "n": "Adobe Photoshop",
-            "v": "Adobe Photoshop教程"
+            "n": "访谈",
+            "v": "访谈"
           },
           {
-            "n": "Adobe Illustrator",
-            "v": "Adobe Illustrator教程"
+            "n": "脱口秀",
+            "v": "脱口秀"
           },
           {
-            "n": "CorelDRAW",
-            "v": "CorelDRAW教程"
+            "n": "真人秀",
+            "v": "真人秀"
           },
           {
-            "n": "Adobe InDesign",
-            "v": "Adobe InDesign教程"
+            "n": "晚会",
+            "v": "晚会"
           },
           {
-            "n": "Adobe Pagermaker",
-            "v": "Adobe Pagermaker教程"
-          },
-          {
-            "n": "SAI",
-            "v": "SAI教程"
-          },
-          {
-            "n": "Adobe Bridge",
-            "v": "Adobe Bridge教程"
-          },
-          {
-            "n": "Adobe Pagermaker",
-            "v": "Adobe Pagermake教程r"
-          },
-          {
-            "n": "3D Studio Max",
-            "v": "3D Studio Max教程"
-          },
-          {
-            "n": "PR",
-            "v": "PR教程"
-          },
-          {
-            "n": "AE",
-            "v": "AE教程"
-          },
-          {
-            "n": "CINEMA 4D",
-            "v": "CINEMA 4D教程"
+            "n": "演唱会",
+            "v": "演唱会"
           }
+          
+          
         ]
       },
       {
