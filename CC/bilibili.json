@@ -89,7 +89,10 @@
       "type_name": "电视剧",
       "type_id": "电视剧"
     },
-   
+   {
+      "type_name": "软件教程",
+      "type_id": "软件教程"
+    },
     {
       "type_name": "考公考证",
       "type_id": "考公考证"
