@@ -251,7 +251,11 @@
 
 {"name":"Demo聚合","type":3,"url":"Demo"},
 
- 
+ {
+		"name": "🚀哥哥",
+		"type": 1,
+		"url": "https://jiexi.wogg.link/api/饭特析.php?url="
+	},
 {
       "name": "🚀刚佬",
       "type": 1,
