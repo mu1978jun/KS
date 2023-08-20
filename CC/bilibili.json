@@ -30,10 +30,7 @@
       "type_name": "漫步香港",
       "type_id": "漫步香港"
     },
-    {
-      "type_name": "综艺",
-      "type_id": "综艺"
-    },
+    
     
     
     {
@@ -71,7 +68,10 @@
       "type_name": "荒野求生",
       "type_id": "荒野求生超清"
     },
-   
+    {
+      "type_name": "综艺",
+      "type_id": "综艺"
+    },
     {
       "type_name": "音乐",
       "type_id": "音乐"
