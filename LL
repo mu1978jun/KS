@@ -209,7 +209,16 @@
 
 
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
+{
+      "key": "csp_XYQHiker_极影网",
+      "name": "🧲极影网",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E6%9E%81%E5%BD%B1%E7%BD%91.json"
+    },
 
 
 
