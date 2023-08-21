@@ -29,7 +29,18 @@
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 //{"key": "csp_wogg_cli","name": "玩偶(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"自己的TOKEN"},
 {"key": "荐片","name": "💯荐片(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-
+{
+      "key": "bbcli",
+      "name": " b站〔cli〕",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "playerType": 2,
+      "viewType": 1,
+      "ext": https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/B站精简.js
+    }, 
 {
       "key": "xymzyt",
       "name": "👑新夜4k👑",
