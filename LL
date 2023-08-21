@@ -39,7 +39,7 @@
       "filterable": 1,
       "playerType": 2,
       "viewType": 1,
-      "ext": https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/B站精简.js
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/B站精简.js"
     }, 
 {
       "key": "xymzyt",
