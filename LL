@@ -222,9 +222,9 @@
 
 
 
-{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
+//{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 
-//{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
+{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"8a771852dafe48bb87e9adfd265f28a8+auto|4k"},
 //{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 //{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 //{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$yingshi$$$abcd1234"},
