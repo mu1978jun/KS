@@ -142,6 +142,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/alist.json"
     },
+{"key":"追剧","name":"追剧","type":3,"api":"csp_Zjdros","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1k.953365.cn/zhuijuos.php/v6/","jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/spider.jar"},
 {
       "key": "aikanbot",
       "name": "❤影视爱看机器人",
