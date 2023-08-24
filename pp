@@ -2,7 +2,7 @@
   
 
   
-   "spider": "https://raw.iqiq.io/mu1978jun/KS/main/YY/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3",
+   "spider": "https://raw.kgithub.com/mu1978jun/KS/main/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3",
    //"spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -19,10 +19,10 @@
 
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
-{"key": "csp_Bili","name": "🅱哔哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/bilibili.json"},
-//{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/B站精简.js"},
-{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/geshou.py"},
-{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/美食合集.py"},
+{"key": "csp_Bili","name": "🅱哔哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/bilibili.json"},
+//{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/B站精简.js"},
+{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/geshou.py"},
+{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/美食合集.py"},
 
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 //{"key": "csp_wogg_cli","name": "玩偶(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":""},
@@ -62,31 +62,31 @@
         "综艺"
       ],
 "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "jar": "https://raw.iqiq.io/mu1978jun/KS/main/YY/ky.jar"
+      "jar": "https://raw.kgithub.com/mu1978jun/KS/main/YY/ky.jar"
     },
 {
       "key": "ymzy2k",
       "name": "👑自营2k👑",
       "type": 3,
       "playerType": 2,
-      "api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/夜猫自营2k.js"
+      "api": "https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/夜猫自营2k.js"
     },
  {
       "key": "ymzylg",
       "name": "👑自营蓝光👑",
       "type": 3,
       "playerType": 2,
-      "api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/自营蓝光.js"
+      "api": "https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/自营蓝光.js"
     },
  {
       "key": "ymzy",
       "name": "👑自营高清👑",
       "type": 3,
       "playerType": 2,
-      "api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js",
-      "ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/自营.js"
+      "api": "https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js",
+      "ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/自营.js"
     },
  {
       "key": "野兔资源",
@@ -118,7 +118,7 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
 
-{"key":"一龙高清","name":"🐲翼龙高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/一龙高清影视.json"},
+{"key":"一龙高清","name":"🐲翼龙高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/一龙高清影视.json"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"北极狐", "name": "💧北极狐┃4K", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/mu1978jun/KS/main/alist.json"
+      "ext": "https://raw.kgithub.com/mu1978jun/KS/main/alist.json"
     },
 
 
@@ -147,7 +147,7 @@
 
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
 
-{"key":"csp_Bdys","name":"🐣哔嘀影视🐣","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.iqiq.io/mu1978jun/KS/main/YY/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"},    
+{"key":"csp_Bdys","name":"🐣哔嘀影视🐣","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.kgithub.com/mu1978jun/KS/main/YY/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"},    
 
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
 {"key":"csp_xml_光速资源","name":" 🛵光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["大陆剧","韩剧","港澳剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
@@ -181,7 +181,7 @@
 
 
 
-{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.iqiq.io/mu1978jun/KS/main/YY/xxtv.jar"},
+{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.kgithub.com/mu1978jun/KS/main/YY/xxtv.jar"},
 {"key":"csp_Xunlei8","name":"💣迅雷吧💣","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
 
 
@@ -195,14 +195,14 @@
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$yingshi$$$abcd1234"},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/奇珍异兽.js"},
-{"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://raw.iqiq.io/mu1978jun/KS/main/CC/百忙无果.js"},
+{"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/奇珍异兽.js"},
+{"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext": "https://raw.kgithub.com/mu1978jun/KS/main/CC/百忙无果.js"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_LIBVIO2","name":"🎭LIBVIO2[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/LIBVIO2.js"},
-{"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/斗鱼.js"},
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.iqiq.io/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/HYZB.js"},
-{"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/mu1978jun/KS/main/CC/huya.py"}
+{"key":"drpy_js_LIBVIO2","name":"🎭LIBVIO2[js]","type":3,"api":"https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/LIBVIO2.js"},
+{"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/斗鱼.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://raw.kgithub.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/HYZB.js"},
+{"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/huya.py"}
 
 
 
