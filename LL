@@ -213,7 +213,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json","jar":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/0606.jar"},
+  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json","jar":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F"},
 
 
 
