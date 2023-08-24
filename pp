@@ -2,7 +2,7 @@
   
 
   
-   "spider": "https://raw.iqiq.io/mu1978jun/KS/main/YY/Yoursmile.jar;md5;127F5EC07DC93829F7D79FE86C48C290",
+   "spider": "https://raw.iqiq.io/mu1978jun/KS/main/YY/Yoursmile.jar;md5;32BA800637272A7DFFF64A0FFA6695B3",
    //"spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
    
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
