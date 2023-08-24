@@ -182,14 +182,7 @@
 
 
 {"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.kgithub.com/mu1978jun/KS/main/YY/xxtv.jar"},
-{
-            "key": "玉兔资源",
-            "name": "玉兔资源(切片)",
-            "type": 0,
-            "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+//{"key": "玉兔资源","name": "玉兔资源(切片)","type": 0,"api": "https://apiyutu.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1},
 
 
 
