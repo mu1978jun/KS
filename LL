@@ -28,18 +28,7 @@
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 //{"key": "csp_wogg_cli","name": "玩偶(cli)","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":""},
 {"key": "荐片","name": "💯荐片(cli)💯","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{
-      "key": "yc",
-      "name": "👑影巢4K👑",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-    },
+
 {
       "key": "csp_SixV",
       "name": "🧲新6V",
