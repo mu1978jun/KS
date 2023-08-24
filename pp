@@ -182,7 +182,7 @@
 
 
 {"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/mu1978jun/KS/main/CC/bidizili.json","jar": "https://raw.kgithub.com/mu1978jun/KS/main/YY/xxtv.jar"},
-{"key":"csp_Xunlei8","name":"💣迅雷吧💣","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
+
 
 
 
