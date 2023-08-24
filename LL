@@ -206,7 +206,14 @@
       "ext": "https://tvbox.cainisi.cf/json/XYQHiker/电影港磁力.json",
       "jar": "https://tvbox.cainisi.cf/jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
-
+{"key": "csp_XBPQ_6V",
+  "name": "🌙4K磁力",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
 
 
 
