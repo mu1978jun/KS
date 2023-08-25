@@ -24,9 +24,9 @@
 //{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/B站精简.js"},
 {"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/geshou.py"},
 {"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/美食合集.py"},
-{"key": "聚搜磁力","name": "🍵‍┃聚搜┃磁力","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "1ecdccec1c1a42f1aed859ee1f8357f9"},
-{"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"1ecdccec1c1a42f1aed859ee1f8357f9+auto|4k$$$http://tvfan.xxooo.cf/"},
-{"key":"t4_wo","name":"👽玩偶T4┃","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=1ecdccec1c1a42f1aed859ee1f8357f9","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "聚搜磁力","name": "🍵‍┃聚搜┃磁力","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "0bec59716cbd492796ea1d5b14f2ca67"},
+{"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"0bec59716cbd492796ea1d5b14f2ca67+auto|4k$$$http://tvfan.xxooo.cf/"},
+{"key":"t4_wo","name":"👽玩偶T4┃","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0bec59716cbd492796ea1d5b14f2ca67","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "荐片","name": "💯荐片(cli)💯","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
 {
@@ -224,8 +224,8 @@
 
 //{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 
-{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"8a771852dafe48bb87e9adfd265f28a8+auto|4k"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"8a771852dafe48bb87e9adfd265f28a8+auto|4k"},
+{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"0bec59716cbd492796ea1d5b14f2ca67+auto|4k"},
+{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"0bec59716cbd492796ea1d5b14f2ca67+auto|4k"},
 //{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 //{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$yingshi$$$abcd1234"},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
