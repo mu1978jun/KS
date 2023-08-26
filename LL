@@ -28,7 +28,7 @@
 {"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 //{"key":"t4_wo","name":"👽玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/OPG/bo/raw/main/Q/Z.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "荐片","name": "💯荐片(cli)💯","type": 4,"api": "http://home.jundie.top:9520/spider/csp_JP","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-{"key":"drpy_js_xb6v","name":"👑新版6v[js]👑","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy3.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/js/xb6v.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1},
+
 {
       "key": "xymzyt",
       "name": "👑新夜4k👑",
