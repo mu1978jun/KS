@@ -193,7 +193,7 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 2,
-      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6V电影.json"
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/6V电影.json"
     },
 
 
