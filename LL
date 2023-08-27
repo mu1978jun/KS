@@ -209,7 +209,17 @@
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/6V电影.json"
     },
 
-
+{
+      "key": "drpy_js_xb6v",
+      "name": "新版6v[js]",
+      "type": 3,
+      "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/lib/drpy3.min.js",
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/xb6v.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 
 
