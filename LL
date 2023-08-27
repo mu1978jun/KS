@@ -43,6 +43,13 @@
       "playUrl": "json:http://42.157.128.109:2323/CH/zy/Yumi.php?url="
     },
 {
+      "key": "365",
+      "name": "🎨ZNJ┃直连",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
+{
       "key": "xymzyt",
       "name": "👑新夜4k👑",
       "type": 3,
