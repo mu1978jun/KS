@@ -140,7 +140,7 @@
 
 {"key":"kkpans","name":"🍉KKP磁力","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/lib/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/js/kkpans.js","quickSearch":1, "changeable":1,"timeout":60000,
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/PG推送.json"
-    },
+   ,"jar":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/jar/fm.nogo.jar"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 
