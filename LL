@@ -138,7 +138,9 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
 
-
+{"key":"kkpans","name":"🍉KKP磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js","quickSearch":1, "changeable":1,"timeout":60000,
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/alist.json"
+    },
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 
