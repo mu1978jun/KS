@@ -29,15 +29,14 @@
 //{"key":"t4_wo","name":"👽玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/OPG/bo/raw/main/Q/Z.txt","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "yc",
-      "name": "👑夜猫影巢4K👑",
+      "name": "👑影巢4K👑",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+      "ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$https://pan.shangui.cc/f/p5RUL/tk.php"
     },
 
     {
