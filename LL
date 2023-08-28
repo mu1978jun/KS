@@ -37,7 +37,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+      "jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/xry.jar;md5;14eb8a0592d66549900bfb823a54586c"
     },
 
     {
