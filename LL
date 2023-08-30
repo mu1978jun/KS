@@ -29,13 +29,7 @@
 //{"key":"t4_wo","name":"👽玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/OPG/bo/raw/main/Q/Z.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "yc","name": "👑影巢4K👑","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/xry.jar;md5;14eb8a0592d66549900bfb823a54586c"},
 
-    {
-      "key": "yumi",
-      "name": "🌽玉米棒棒",
-      "type": 1,
-      "api": "http://ym.xzam.cn:66/api.php/provide/vod/",
-      "playUrl": "json:http://42.157.128.109:2323/CH/zy/Yumi.php?url="
-    },
+   
 
 {
       "key": "xymzyt",
