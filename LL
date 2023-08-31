@@ -67,30 +67,7 @@
 "ext": "http://cms.maoyingshi.cc/api.php/app/",
       "jar": "./YY/ky.jar"
     },
-{
-      "key": "ymzy2k",
-      "name": "👑自营2k👑",
-      "type": 3,
-      "playerType": 2,
-      "api": "./CC/lib/drpy2.min.js",
-      "ext": "./CC/夜猫自营2k.js"
-    },
- {
-      "key": "ymzylg",
-      "name": "👑自营蓝光👑",
-      "type": 3,
-      "playerType": 2,
-      "api": "./CC/lib/drpy2.min.js",
-      "ext": "./CC/自营蓝光.js"
-    },
- {
-      "key": "ymzy",
-      "name": "👑自营高清👑",
-      "type": 3,
-      "playerType": 2,
-      "api": "./CC/lib/drpy2.min.js",
-      "ext": "./CC/自营.js"
-    },
+
  {
       "key": "野兔资源",
       "name": "👑夜兔4K👑",
