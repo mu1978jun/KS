@@ -27,8 +27,8 @@
 //{"key": "聚搜磁力","name": "🍵‍┃聚搜┃磁力","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 {"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 //{"key":"t4_wo","name":"👽玩偶T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/OPG/bo/raw/main/Q/Z.txt","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "yc","name": "👑影巢4K👑","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "./YY/xry.jar;md5;14eb8a0592d66549900bfb823a54586c"},
-//{"key": "csp_Hdhive_影巢","name":"🔎影巢☆阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k","jar":"https://cloud.lxweb.cn/f/kPohp/ky.jar"},
+//{"key": "yc","name": "👑影巢4K👑","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "./YY/xry.jar;md5;14eb8a0592d66549900bfb823a54586c"},
+{"key": "csp_Hdhive_影巢","name":"🔎影巢☆阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k","jar":"https://cloud.lxweb.cn/f/kPohp/ky.jar"},
    
 
 {
