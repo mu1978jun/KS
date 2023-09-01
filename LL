@@ -39,15 +39,18 @@
       "api": "./CC/lib/drpy2.min.js",
       "ext": "./CC/夜猫尊享.js"
     },  
-
 {
-      "key": "xymzyt",
-      "name": "👑新夜4k👑",
+      "key": "影探4K2",
+      "name": "👑影探4K👑",
       "type": 3,
       "playerType": 1,
-      "api": "./CC/lib/drpy2.min.js",
-      "ext": "./CC/影探.js"
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
     },
+//{"key": "xymzyt","name": "👑新夜4k👑","type": 3,"playerType": 1,"api": "./CC/lib/drpy2.min.js","ext": "./CC/影探.js"},
  {
       "key": "AppYs_yumi",
       "name": "👑夜猫至臻👑",
