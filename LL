@@ -173,7 +173,19 @@
   "parses": [
 
 {"name":"Demo聚合","type":3,"url":"Demo"},
-
+ {
+      "name": "🚀探探",
+      "type": 1,
+      "url": "http://jiexi.lyyytv.cn/json.php?url=",
+      "ext": {
+        "flag": [
+          "XY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.11"
+        }
+      }
+    },
  {
 		"name": "🚀哥哥",
 		"type": 1,
