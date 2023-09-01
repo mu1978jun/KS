@@ -313,28 +313,7 @@
         }
     }
 },
-{
-    "name": "🚀云析",
-    "type": 1,
-    "url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E5%BD%B1%E8%A7%86%E8%8C%83%E3%80%91&url=",
-    "header": {
-        "User-Agent": "Dart/2.17 (dart:io)"
-    },
-    "ext": {
-        "flag": [
-            "FY",
-            "iqiyi",
-            "youku",
-            "qq",
-            "mgtv",
-            "douyin",
-            "ixigua"
-        ],
-        "header": {
-            "User-Agent": "Dart/2.17 (dart:io)"
-        }
-    }
-},
+
 {
       "name": "爱酷",
       "type": 1,
