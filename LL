@@ -36,8 +36,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%A4%9C%E7%8C%AB%E5%B0%8A%E4%BA%AB.js"
+      "api": "./CC/lib/drpy2.min.js",
+      "ext": "./CC/夜猫尊享.js"
     },  
 
 {
