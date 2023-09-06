@@ -87,7 +87,7 @@ var rule = {
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
         // "Cookie":"$bili_cookie"
-        "Cookie":"innersign=0;buvid3=2E536ADC-CD6D-46AB-A9FF-904395151EE369713infoc;b_nut=1669016569;i-wanna-go-back=-1;b_ut=7;_uuid=761F7F106-C575-884D-6C10A-92BC10A10D10FBC68934infoc;buvid4=5B25B999-AE15-E09A-A0CC-3661981B71BF70255-122112115-JOyWSaNZfI2kZmT1KYmcQA%3D%3D;fingerprint=6d9ef93c89a567d22b6a9c4104e6cc50;buvid_fp_plain=undefined;buvid_fp=6d9ef93c89a567d22b6a9c4104e6cc50;SESSDATA=2d6f63c8%2C1684568607%2C19eb6%2Ab1;bili_jct=21d538b01566c26afc81ff68c2ac7dca;DedeUserID=3493083203242585;DedeUserID__ckMd5=7b86f3894ed7f8c0;sid=ng0uyvaz;b_lsid=97FB69A2_1869DE8E2C5;bg_view_44176=720227"
+        "Cookie":"buvid3=12A78977-8E04-8DA0-EACA-4280A2CBF70F26536infoc; buvid4=AC82CF17-BB02-2BA5-AEB2-880F381C8E3A15597-022020401-bEJsC6owQKOC964b3kF8aA%3D%3D; CURRENT_BLACKGAP=0; i-wanna-go-back=-1; is-2022-channel=1; b_nut=100; _uuid=C3D57961-F8CA-8BB3-EA87-1B545E435B81013328infoc; header_theme_version=CLOSE; nostalgia_conf=-1; rpdid=|(Y|)|Yukuu0J'uY~~|~|RmY; DedeUserID=3493112737433767; DedeUserID__ckMd5=b48704cc9d5767a2; CURRENT_QUALITY=80; b_ut=5; home_feed_column=5; CURRENT_FNVAL=4048; fingerprint=6072d6d047af63027d42e7b07fdc0e14; buvid_fp_plain=undefined; buvid_fp=6072d6d047af63027d42e7b07fdc0e14; bp_video_offset_3493112737433767=829654181129224199; PVID=1; innersign=0; b_lsid=7197A2E1_18A6572474D; bsource=search_baidu; SESSDATA=a3b66263%2C1709471105%2C827d3%2A92J3ek47bxV2D3NICqYMcLiGLc8j5GPYyNJ5Kany321n1pWi76HJvQF51AUZv0Xpjf5K2lxwAAQwA; bili_jct=8fefab3e2a608c421e3d5fa72de5a823; sid=77j01eei; browser_resolution=1920-398"
     },
     timeout:5000,
     limit:8,
