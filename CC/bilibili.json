@@ -10,25 +10,12 @@
       "type_id": "超清胃女王吃遍日本&大胃女王"
     },
      {
-      "type_name": "4K漫步",
+      "type_name": "4K漫步系列",
       "type_id": "4K漫步"
     },
-    {
-      "type_name": "漫步日本",
-      "type_id": "超清日本&漫步日本2&漫步日本"
-    },
-    {
-      "type_name": "漫步韩国",
-      "type_id": "超清韩国第一视角&漫步韩国"
-    },
-    
      {
-      "type_name": "漫步台湾",
-      "type_id": "漫步台湾&超清台湾"
-    },
-     {
-      "type_name": "漫步香港",
-      "type_id": "漫步香港"
+      "type_name": "荒野求生系列",
+      "type_id": "荒野求生超清"
     },
     {
       "type_name": "alist",
@@ -36,18 +23,7 @@
     },
     
     
-    {
-      "type_name": "荒野求生",
-      "type_id": "荒野求生"
-    },
-    {
-      "type_name": "荒野独居",
-      "type_id": "荒野独居"
-    },
-    {
-      "type_name": "荒野建造",
-      "type_id": "荒野建造完整版"
-    },
+    
     {
       "type_name": "风景",
       "type_id": "风景4K"
@@ -67,10 +43,7 @@
       "type_id": "动物世界超清"
     },
     
-    {
-      "type_name": "荒野求生",
-      "type_id": "荒野求生超清"
-    },
+   
     {
       "type_name": "综艺",
       "type_id": "综艺"
