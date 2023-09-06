@@ -21,7 +21,7 @@
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
 {"key": "csp_Bili","name": "🅱哔哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./CC/bilibili.json"},
-//{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "./CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/B站精简.js"},
+{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "./CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/B站精简.js"},
 {"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
 {"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
 //{"key": "聚搜磁力","name": "🍵‍┃聚搜┃磁力","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
