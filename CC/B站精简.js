@@ -26,8 +26,8 @@ var rule = {
     host:'https://api.bilibili.com',
     homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     url:'/x/web-interface/search/type?search_type=videofyfilter',
-    class_name:'经典无损音乐合集&音乐&歌曲&MV&演唱会&探索发现&纪录片&美食&动物世界&相声小品&戏曲&荒野求生',
-    class_url:'经典无损音乐合集&音乐&歌曲&MV4K&演唱会4K&探索发现超清&纪录片超清&美食超清&相声小品&动物世界超清&戏曲&荒野求生超清',
+    class_name:'美食&荒野求生&经典无损音乐合集&音乐&歌曲&MV&演唱会&探索发现&纪录片&美食&动物世界&相声小品&戏曲',
+    class_url:'美食超清&荒野求生超清&经典无损音乐合集&音乐&歌曲&MV4K&演唱会4K&探索发现超清&纪录片超清&相声小品&动物世界超清&戏曲',
     filterable: 1,
     filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
     filter_def:{
