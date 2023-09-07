@@ -18,6 +18,10 @@
       "type_id": "荒野求生超清"
     },
     {
+      "type_name": "电视盒子",
+      "type_id": "电视盒子openwrt"
+    },
+    {
       "type_name": "alist",
       "type_id": "alist"
     },
