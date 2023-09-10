@@ -27,7 +27,7 @@ var rule = {
 		json:{
 			parse:0,
 			jx:0
-		}
+	}
 	}],
 	lazy:'',
 	limit:6,
