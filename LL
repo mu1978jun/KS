@@ -138,7 +138,7 @@
 {"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "./CC/lib/drpy2.min.js","ext": "./CC/奇珍异兽.js"},
 {"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "./CC/lib/drpy2.min.js","ext": "./CC/百忙无果.js"},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://192.168.0.2:7893"},
+{"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"ext":"socks5://192.168.0.2:7891"},
 {"key":"drpy_js_LIBVIO2","name":"🎭LIBVIO2[js]","type":3,"api":"./CC/lib/drpy2.min.js","ext":"./CC/LIBVIO2.js"},
 {"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"./CC/lib/drpy2.min.js","ext":"./CC/斗鱼.js"},
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"./CC/lib/drpy2.min.js","ext":"./CC/HYZB.js"},
