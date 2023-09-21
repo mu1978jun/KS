@@ -2,7 +2,7 @@
     "drives": [
       {
         "name": "小雅搜索",
-        "server": "https://XXX",
+        "server": "http://192.168.0.2:5678",
         "version": 3
       }
     ]
