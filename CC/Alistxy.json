@@ -1,0 +1,9 @@
+{
+    "drives": [
+      {
+        "name": "小雅搜索",
+        "server": "https://XXX",
+        "version": 3
+      }
+    ]
+}
