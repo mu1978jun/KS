@@ -31,26 +31,42 @@
 {"key": "csp_Hdhive_影巢","name":"🔎影巢☆阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k","jar":"https://cloud.lxweb.cn/f/kPohp/ky.jar"},
 {"key":"csp_Czsapp","name":"🍭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
-
-//{"key": "xymzyt","name": "👑新夜4k👑","type": 3,"playerType": 1,"api": "./CC/lib/drpy2.min.js","ext": "./CC/影探.js"},
- {
-      "key": "AppYs_yumi",
-      "name": "👑夜猫至臻👑",
-      "type": 3,
-      "playerType": 2,
-      "api": "./CC/lib/drpy2.min.js",
-      "ext": "./CC/夜猫至臻.js"
-    },
 {
-        "key": "maolv_open",
-        "name": "影视|毛驴",
-        "type": 3,
-        "api": "csp_Maolv",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
+    "filterable" : 1,
+    "quickSearch" : 1,
+    "name" : "💃小丫仙女",
+    "viewType" : {
+      "style" : {
+        "type" : "rect"
+      }
     },
+    "changeable" : 0,
+    "jar" : "http://192.168.0.2:4567/spring.jar",
+    "api" : "csp_XiaoYa",
+    "type" : 3,
+    "key" : "csp_XiaoYa",
+    "searchable" : 1
+  },
+{
+    "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
+    "filterable" : 1,
+    "quickSearch" : 1,
+    "name" : "BiliBili",
+    "viewType" : {
+      "style" : {
+        "type" : "rect"
+      }
+    },
+    "changeable" : 0,
+    "jar" : "http://192.168.0.2:4567/spring.jar",
+    "api" : "csp_BiliBili",
+    "type" : 3,
+    "key" : "csp_BiliBili",
+    "searchable" : 1
+  }, 
+
+
 {
 	    "key":"Alist",
 	    "name":"小雅Alist",
@@ -107,45 +123,10 @@
     },
      
  
-//{
-      //"key": "csp_AList_Alist",
-      //"name": "🍰小鸭┃网盘",
-      //"type": 3,
-     //"api": "csp_AList",
-      //"searchable": 1,
-      //"quickSearch": 1,
-      //"filterable": 1,
-      //"ext": "./alist.json"
-    //},
 
-{
-      "key": "aikanbot",
-      "name": "❤影视爱看机器人",
-      "type": 3,
-      "api": "./CC/lib/lf_ikanbot5_2_min.js",
-      "searchable": 1,
-      "filterable": 1,
-      "style":{ "type":"rect", "ratio":1.33 },
-      "quickSearch": 1
-    },
 
-{
-    "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
-    "filterable" : 1,
-    "quickSearch" : 1,
-    "name" : "丫仙女",
-    "viewType" : {
-      "style" : {
-        "type" : "rect"
-      }
-    },
-    "changeable" : 0,
-    "jar" : "http://192.168.0.2:4567/spring.jar",
-    "api" : "csp_XiaoYa",
-    "type" : 3,
-    "key" : "csp_XiaoYa",
-    "searchable" : 1
-  },
+
+
 
 
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
