@@ -160,9 +160,9 @@
 
 
 {"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/bidizili.json","jar": "./YY/xxtv.jar"},
-{"key":"csp_Alistxy","name":"️Alist网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"./CC/Alistxy.json","jar": "./YY/xiaoya.jar"},
+//{"key":"csp_Alistxy","name":"️Alist网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"./CC/Alistxy.json","jar": "./YY/xiaoya.jar"},
 
-
+{"key":"csp_Alistxy","name":"️小雅网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"http://192.168.0.2:5678/tvbox/my.json","jar": "./YY/xiaoya.jar"},
 
 
 
