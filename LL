@@ -51,7 +51,16 @@
         "filterable": 0,
         "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
-
+{
+	    "key":"Alist",
+	    "name":"Alist",
+	    "type":3,
+	    "api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"
+	},
 
 
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
