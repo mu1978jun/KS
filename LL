@@ -107,16 +107,16 @@
     },
      
  
-{
-      "key": "csp_AList_Alist",
-      "name": "🍰小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./alist.json"
-    },
+//{
+      //"key": "csp_AList_Alist",
+      //"name": "🍰小鸭┃网盘",
+      //"type": 3,
+     //"api": "csp_AList",
+      //"searchable": 1,
+      //"quickSearch": 1,
+      //"filterable": 1,
+      //"ext": "./alist.json"
+    //},
 
 {
       "key": "aikanbot",
