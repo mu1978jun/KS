@@ -53,7 +53,7 @@
     },
 {
 	    "key":"Alist",
-	    "name":"Alist",
+	    "name":"小雅Alist",
 	    "type":3,
 	    "api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js",
 	    "searchable":1,
