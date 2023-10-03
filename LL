@@ -139,6 +139,13 @@
         "type" : "rect"
       }
     },
+    "changeable" : 0,
+    "jar" : "http://192.168.0.2:4567/spring.jar",
+    "api" : "csp_XiaoYa",
+    "type" : 3,
+    "key" : "csp_XiaoYa",
+    "searchable" : 1
+  },
 
 
 {"key": "LIBVIO","name": "🃏LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.libvio.cc/"},
