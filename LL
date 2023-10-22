@@ -65,16 +65,15 @@
     "key" : "csp_BiliBili",
     "searchable" : 1
   }, 
-{
-    "key": "jojo_open",
-    "name": "JOJO",
-    "type": 3,
-    "api": "csp_JoJo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "jar": "./YY/OpenSpider.jar"
-},
+    {
+      "key": "JOJO",
+      "name": "🕊︎JOJO┃直连",
+      "type": 3,
+      "api": "csp_JOJO",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 {
 	    "key":"Alist",
