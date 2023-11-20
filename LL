@@ -192,9 +192,10 @@
 {"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "./CC/lib/drpy2.min.js","ext": "./CC/百忙无果.js"},
 
 
-
-{"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"./CC/lib/drpy2.min.js","ext":"./js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"./CC/lib/drpy2.min.js","ext":"./js/虎牙直播.js"},
+{"key":"drpy_js_斗鱼直播","name":"🐋直播┃斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/斗鱼直播.js"},
+{"key":"drpy_js_虎牙直播","name":"🐯直播┃虎牙[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/虎牙直播.js"},
+//{"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/斗鱼直播.js"},
+//{"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/虎牙直播.js"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
 
 
