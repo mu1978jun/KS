@@ -191,7 +191,7 @@
 {"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "./CC/lib/drpy2.min.js","ext": "./CC/奇珍异兽.js"},
 {"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "./CC/lib/drpy2.min.js","ext": "./CC/百忙无果.js"},
 
-{"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.0.2:7893/log"},
+
 //{"key":"drpy_js_斗鱼直播","name":"🐋直播┃斗鱼[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/js/斗鱼直播.js"},
 //{"key":"drpy_js_虎牙直播","name":"🐯直播┃虎牙[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/js/虎牙直播.js"},
 {"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/lib/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/js/斗鱼直播.js"},
