@@ -187,9 +187,8 @@
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$yingshi$$$abcd1234"},
-{"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key": "drpy_异果","name": "🥝小爱影视","type": 3,"api": "./CC/lib/drpy2.min.js","ext": "./CC/奇珍异兽.js"},
-{"key": "drpy_无果","name": "🏝忙果影视","type": 3,"playerType": 1,"api": "./CC/lib/drpy2.min.js","ext": "./CC/百忙无果.js"},
+
+
 
 
 
