@@ -65,14 +65,7 @@
     "key" : "csp_BiliBili",
     "searchable" : 1
   }, 
-    {
-      "key": "JOJO",
-      "name": "🕊︎JOJO┃直连",
-      "type": 3,
-      "api": "csp_JOJO",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,"jar": "./YY/uyv0t678c488189af47bb91dc108484d17431.jar"},
+    
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/农民影视.json"},
 
 {
