@@ -77,7 +77,7 @@
 
 {
 	    "key":"Alist",
-	    "name":"小雅4K",
+	    "name":"💃小雅4K",
 	    "type":3,
 	    "api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js",
 	    "searchable":1,
