@@ -79,7 +79,15 @@
 	    "ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"
 	},
 
-
+{
+      "key": "一起看 ",
+      "name": "🎉一起看┃App",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key": "SNzy",
