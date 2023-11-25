@@ -78,7 +78,18 @@
 	    "filterable":0,
 	    "ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"
 	},
-
+{
+            "key": "csp_Wobg",
+            "name": "👽表哥|fm",
+            "type": 3,
+            "jar": "https://f002.backblazeb2.com/file/lirg168/fm.jar;md5;c7490687d67967fcf1afa46140aec05d",
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://agit.ai/lirg/ocean/raw/branch/master/txt/token.txt$$$https://wobge.run.goorm.io$$$0",
+            "timeout": 30
+        },
 {
       "key": "一起看 ",
       "name": "🎉一起看┃App",
