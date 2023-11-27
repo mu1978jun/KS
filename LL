@@ -87,7 +87,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "https://agit.ai/lirg/ocean/raw/branch/master/txt/token.txt$$$https://wobge.run.goorm.io$$$0",
+            "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/CC/Open_Token.json$$$https://wobge.run.goorm.io$$$0",
             "timeout": 30
         },
 {
