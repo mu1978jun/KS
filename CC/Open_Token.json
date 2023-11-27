@@ -3,8 +3,7 @@
 "open_token":"",
 "thread_limit":32,
 "vod_flags":"2k|4k|4kz|auto",
-"quark_flags":"auto|4k|4kz",
-"aliproxy":"http://192.168.50.1:23456",
+"aliproxy":"",
 "proxy":"",
 "open_api_url":"https://api.xhofe.top/alist/ali_open/",
 "quark_cookie":""
