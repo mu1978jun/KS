@@ -24,7 +24,11 @@
 //{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "./CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/B站精简.js"},
 {"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
 {"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
-
+{"key":"玩偶表哥弹幕","name":"玩偶表哥┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
+      "token": "http://127.0.0.1:9978/file/TV/token.txt",
+      "cookie": "http://127.0.0.1:9978/file/TV/quark.txt",
+      "danmu" : true
+    },"jar":"https://f002.backblazeb2.com/file/lirg168/fm.jar;md5;c7490687d67967fcf1afa46140aec05d"},
 //{"key": "聚搜磁力","name": "🍵‍┃聚搜┃磁力","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 {"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 //{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$https://www.wogg.xyz/$$$弹"},
