@@ -88,6 +88,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenem.json","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key": "SNzy",
