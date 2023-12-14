@@ -42,4 +42,4 @@ proxy-groups:
 - DOMAIN,yacd.haishan.me,DIRECT
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
-- MATCH,节点选择
+- MATCH,🔰 节点选择
