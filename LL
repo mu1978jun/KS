@@ -27,7 +27,7 @@
 
 //{"key": "聚搜磁力","name": "🍵‍┃聚搜┃磁力","type": 4,"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/OPG/bo/raw/main/Q/Z.txt"},
 {"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
-{"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenem.json","jar":"./YY/pg.jar;md5;2A66BEAF035CD7D8BEFE739FA7A22FB4"}, 
+{"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/tokenem.json","jar":"./YY/pg.jar;md5;2A66BEAF035CD7D8BEFE739FA7A22FB4"}, 
 //{"key": "csp_Hdhive_影巢","name":"🔎影巢☆阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k","jar":"./YY/ky.jar"},
 {"key":"csp_Czsapp","name":"🏭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},  
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
@@ -91,7 +91,7 @@
 {"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenem.json","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
-{"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
+{"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"},
 
 {"key": "SNzy",
         "name": "索尼",
