@@ -7,7 +7,7 @@
 "quark_thread_limit":32,
 "quark_is_vip":false,
 "quark_vip_thread_limit":16,
-"vod_flags":"4k|4kz|auto",
+"vod_flags":"4k|4kz|qhd|fhd",
 "quark_flags":"4kz|auto",
 "aliproxy":"",
 "proxy":"",
