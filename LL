@@ -20,15 +20,16 @@
 
 {"key":"繁星","name":"💥繁星","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
-{"key": "csp_Bili","name": "🅱哔哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./CC/bilibili.json"},
+//{"key": "csp_Bili","name": "🅱哔哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./CC/bilibili.json"},
 //{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "./CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/B站精简.js"},
-{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
-{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
+//{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
+//{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
 {"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;751CAF85698244B0665FE3717C363CE0"},
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 //{"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 {"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/tokenem.json","jar":"./YY/pg.jar;md5;751CAF85698244B0665FE3717C363CE0"}, 
 //{"key": "csp_Hdhive_影巢","name":"🔎影巢☆阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k","jar":"./YY/ky.jar"},
+{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./CC/tokenem.json","jar":"./YY/pg.jar;md5;751CAF85698244B0665FE3717C363CE0"}, 
 {"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"./CC/tokenem.json$$$https://ppxzy.net/", "timeout":30,"jar":"./YY/pg.jar;md5;751CAF85698244B0665FE3717C363CE0"}, 
 {"key":"csp_Czsapp","name":"🏭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},  
 {"key": "csp_zxzj","name": "🍹在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"playerType":2,"quickSearch": 1,"filterable": 1,"ext": "https://www.zxzj.pro/"}, 
@@ -98,7 +99,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://agit.ai/CT/TTT/raw/branch/master/jar/tokenem.json","jar":"https://gitee.com/software-talent-live-source/jar/raw/master/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"}, 
+
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
 
