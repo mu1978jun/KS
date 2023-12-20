@@ -10,7 +10,7 @@ proxies:
   - {name: 1204, server: 104.18.211.233, port: 8080, client-fingerprint: random, type: vless, uuid: f5c180eb-fbce-49ac-9029-482eca9385c0, tls: true, tfo: false, servername: 1204.mmu340174.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/", headers: {Host: 1204.mmu340174.workers.dev}}, udp: true}
   - {name: 666.mmu340174.workers.dev-HTTP-80, server: 666.mmu340174.workers.dev, port: 80, client-fingerprint: random, type: vless, uuid: fe3f1d82-4f85-4754-95ad-2c10c9a51eee, tls: false, tfo: false, servername: 666.mmu340174.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 666.mmu340174.workers.dev}}, udp: true}
   - {name: www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel, server: cdn.xn--b6gac.eu.org, port: 80, client-fingerprint: random, type: vless, uuid: fe3f1d82-4f85-4754-95ad-2c10c9a51eee, tls: false, tfo: false, servername: www.mujiangj.cloudns.org, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.mujiangj.cloudns.org}}, udp: true}
-  - {name: xia.xiaoyaxia.cloudns.biz, server: xia.xiaoyaxia.cloudns.biz, port: 443, client-fingerprint: random, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: true, tfo: false, servername: xia.xiaoyaxia.cloudns.biz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: xia.xiaoyaxia.cloudns.biz}}, udp: true}
+  
   #此处回车可增加节点，以下两个节点为举例，正式使用不要在前面加#号，不然无效，
   #- {name: 美国-HTTP, server: 192.203.230.240, port: 80, client-fingerprint: random, type: vless, uuid: 6c00e3f1-b0ec-425b-a5b8-3f786a50e402, tls: false, tfo: false, servername: 2222.bwvd9gh5-dcb.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/", headers: {Host: 2222.bwvd9gh5-dcb.workers.dev}}, udp: true}
   #- {name: 美国-HTTPS, server: 2222.bwvd9gh5-dcb.workers.dev, port: 443, client-fingerprint: random, type: vless, uuid: 6c00e3f1-b0ec-425b-a5b8-3f786a50e402, tls: true, tfo: false, servername: 2222.bwvd9gh5-dcb.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 2222.bwvd9gh5-dcb.workers.dev}}, udp: true}
@@ -24,7 +24,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel  
-      - xia.xiaoyaxia.cloudns.biz 
+     
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -38,7 +38,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
-      - xia.xiaoyaxia.cloudns.biz  
+      
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -53,7 +53,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel  
-      - xia.xiaoyaxia.cloudns.biz  
+      
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -80,7 +80,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
-      - xia.xiaoyaxia.cloudns.biz  
+      
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -99,7 +99,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
-      - xia.xiaoyaxia.cloudns.biz  
+      
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -113,7 +113,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
-      - xia.xiaoyaxia.cloudns.biz  
+     
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -128,7 +128,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel    
-      - xia.xiaoyaxia.cloudns.biz  
+     
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
@@ -152,7 +152,7 @@ proxy-groups:
       - 1204 #修改名称和名称2对应
       - 666.mmu340174.workers.dev-HTTP-80  
       - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
-      - xia.xiaoyaxia.cloudns.biz  
+      
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
