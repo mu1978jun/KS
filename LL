@@ -81,6 +81,7 @@
 	    "filterable":0,
 	    "ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"
 	},
+{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/nmys.json"},
 { 
 "key": "996", 
 "name": "996影视",
