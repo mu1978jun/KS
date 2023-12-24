@@ -1,2 +1,0 @@
-vless://f5c180eb-fbce-49ac-9029-482eca9385c0@0.lince88.cloudns.biz:443?encryption=none&security=tls&sni=0.lince88.cloudns.biz&fp=randomized&type=ws&host=0.lince88.cloudns.biz&path=%2F%3Fed%3D2048#0.lince88.cloudns.biz
-vless://f5c180eb-fbce-49ac-9029-482eca9385c0@edgetunnel.anycast.eu.org:443?encryption=none&security=tls&sni=0.lince88.cloudns.biz&fp=randomized&type=ws&host=0.lince88.cloudns.biz&path=%2F%3Fed%3D2048#0.lince88.cloudns.biz
