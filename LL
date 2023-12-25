@@ -21,7 +21,7 @@
 {"key":"js豆瓣","name":"🐼️芭比豆┃推荐","type":3,"api":"./lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 {"key": "一起看 ","name": "🎉一起看┃App","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
 //{"key": "csp_Bili","name": "🅱哔哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./CC/bilibili.json"},
-//{"key": "js_B站精简","name": "🅱哔哩精简","type": 3,"api": "./CC/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/B站精简.js"},
+
 //{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
 //{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
 {"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"},
