@@ -38,7 +38,7 @@
     "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
     "filterable" : 1,
     "quickSearch" : 1,
-    "name" : "💃小丫仙女",
+    "name" : "💃小雅4K",
     "viewType" : {
       "style" : {
         "type" : "rect"
@@ -71,16 +71,7 @@
     
 
 
-{
-	    "key":"Alist",
-	    "name":"💃小雅4K",
-	    "type":3,
-	    "api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":0,
-	    "ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"
-	},
+//{"key":"Alist","name":"💃小雅4K","type":3,"api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/nmys.json"},
 {
     "key": "996",
@@ -185,7 +176,7 @@
 {"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/bidizili.json","jar": "./YY/xxtv.jar"},
 //{"key":"csp_Alistxy","name":"️Alist网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"./CC/Alistxy.json","jar": "./YY/xiaoya.jar"},
 
-{"key":"csp_Alistxy","name":"️小雅网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"http://192.168.0.2:5678/tvbox/my.json","jar": "./YY/xiaoya.jar"},
+//{"key":"csp_Alistxy","name":"️小雅网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"http://192.168.0.2:5678/tvbox/my.json","jar": "./YY/xiaoya.jar"},
 
 
 
