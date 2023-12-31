@@ -29,7 +29,7 @@
 //{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
 //{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
 {"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"},
-{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹","jar":"./YY/Yoursmile.jar"},
 //{"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 {"key":"影视车","name":"🐻‍❄️影视车┃4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./CC/tokenem.json$$$https://www.weixine.net/$$$null$$$1$$$./CC/wogg.json","jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"},
 {"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/tokenem.json","jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"}, 
