@@ -9,12 +9,7 @@
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
    
 
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://raw.kgithub.com/mu1978jun/KS/main/live",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-	    }],
+"lives":[{"name":"🐼熊熊┃直播","type":0,"url":"./T.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}}],
  
   "sites":[
 
