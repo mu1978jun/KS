@@ -3,7 +3,7 @@
   
 
   
-   "spider": "./YY/fan.txt;md5;8a3584c3608a5412fb02a769ab3886bb",
+   "spider": "./YY/fan.txt;md5;8ba7ff79221a3b1dd152646f48cd279c",
    //"spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
    //"spider":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/fm.jar;md5;7a56a679fe7c45dda5a2ed7b820406f8",
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
@@ -36,15 +36,15 @@
 
 //{"key": "py_yanchh","name": "🅱️歌手合集","type": 3,"api": "py_yanchh","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/geshou.py"},
 //{"key": "py_meishi","name": "🅱️哔哩哔哩合集","type": 3,"api": "py_meishi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./CC/美食合集.py"},
-{"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.0.2:5678/tvbox//tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"},
+{"key":"csp_WoGG","name":"😼玩偶(pg)┃4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.0.2:5678/tvbox//tokenem.json$$$https://wogg.xyz","timeout":30,"jar":"./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"},
 //{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tokenem.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹","jar":"./YY/Yoursmile.jar"},
 //{"key":"csp_WoGG","name":"👽玩偶蝈蝈","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/Z.txt+auto|4k$$$http://tvfan.xxooo.cf/"},
 {"key":"影视车","name":"🐻‍❄️影视车┃4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox//tokenem.json$$$https://www.weixine.net/$$$null$$$1$$$./CC/wogg.json","jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"},
-{"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://192.168.0.2:5678/tvbox//tokenem.json","jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"}, 
+{"key":"csp_Hdhive","name":"💥影巢┃4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://192.168.0.2:5678/tvbox//tokenem.json","jar":"./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"}, 
 //{"key": "csp_Hdhive_影巢","name":"🔎影巢☆阿里","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+auto|4k","jar":"./YY/ky.jar"},
-{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox//tokenem.json","jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"}, 
-{"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://192.168.0.2:5678/tvbox//tokenem.json$$$https://ppxzy.net/", "timeout":30,"jar":"./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"}, 
-{"key": "团长资源","name": "🍡团长┃4K","type": 3,"api": "csp_TZFile","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"ext": "http://192.168.0.2:5678/tvbox//tokenem.json","jar": "./YY/pg.jar;md5;74657742AA46C4E4464281A5E652AF03"},
+{"key":"校长影视","name":"🏫校长┃4K","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox//tokenem.json","jar":"./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"}, 
+{"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://192.168.0.2:5678/tvbox//tokenem.json$$$https://ppxzy.net/", "timeout":30,"jar":"./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"}, 
+{"key": "团长资源","name": "🍡团长┃4K","type": 3,"api": "csp_TZFile","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"ext": "http://192.168.0.2:5678/tvbox//tokenem.json","jar": "./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"},
 {"key":"csp_Czsapp","name":"🏭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},  
 
 {
