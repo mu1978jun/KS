@@ -42,7 +42,7 @@
 {"key":"Ppxzy","name":"🦐皮皮虾┃4K","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "ext":"http://192.168.0.2:5678/tvbox/tokenem.json$$$https://ppxzy.net/", "timeout":30,"jar":"./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"}, 
 {"key": "团长资源","name": "🍡团长┃4K","type": 3,"api": "csp_TZFile","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"ext": "http://192.168.0.2:5678/tvbox/tokenem.json","jar": "./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"},
 {"key":"csp_Czsapp","name":"🏭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},  
-
+{"key": "zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
 {
     "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
     "filterable" : 1,
@@ -77,10 +77,10 @@
     "key" : "csp_BiliBili",
     "searchable" : 1
   }, 
-  {"key": "439","name": "439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"]},  
+  
 
-
-{"key":"Alist","name":"💃丫丫4K","type":3,"api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"},   
+{"key": "439","name": "4️⃣439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"]},
+//{"key":"Alist","name":"💃丫丫4K","type":3,"api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"},   
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/nmys.json"},
 {
     "key": "996",
