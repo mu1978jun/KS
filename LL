@@ -43,6 +43,7 @@
 {"key": "团长资源","name": "🍡团长┃4K","type": 3,"api": "csp_TZFile","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"ext": "http://192.168.0.2:5678/tvbox/tokenem.json","jar": "./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90"},
 {"key":"csp_Czsapp","name":"🏭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},  
 {"key": "zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
+    {"key": "ytvip","name": "🕵️探探┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://vvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1},
 {
     "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
     "filterable" : 1,
