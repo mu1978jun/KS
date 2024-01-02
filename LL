@@ -98,50 +98,10 @@
 
 
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
+//{"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
 
 
-{"key": "SNzy",
-        "name": "索尼",
-        "type": 1,
-        "style": {
-           "type": "rect",
-           "ratio": 1.433},
-        "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-        "searchable": 1,
-        "changeable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories":[
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "悬疑片",
-        "犯罪片",
-        "冒险片",
-        "动画片",
-        "惊悚片",
-        "奇幻片",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
-        
-    
-        ]
-    },
-     
+
  
 
 
@@ -152,7 +112,7 @@
 {"key":"csp_Bdys","name":"🐣哔嘀影视🐣","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./YY/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"},    
 
 
-{"key":"csp_xml_光速资源","name":" 🛵光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["大陆剧","韩剧","港澳剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+
 
 
 
@@ -183,10 +143,8 @@
 
 
 
-{"key":"csp_xpath_bdcl","name":"📞哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./CC/bidizili.json","jar": "./YY/xxtv.jar"},
-//{"key":"csp_Alistxy","name":"️Alist网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"./CC/Alistxy.json","jar": "./YY/xiaoya.jar"},
 
-//{"key":"csp_Alistxy","name":"️小雅网盘","type":3,"api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":"http://192.168.0.2:5678/tvbox/my.json","jar": "./YY/xiaoya.jar"},
+
 
 
 
