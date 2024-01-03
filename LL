@@ -83,7 +83,7 @@
             "key": "PikPakShare",
             "name": "♻️|PikPak分享",
             "type": 3,
-            "jar": "./jar/pg.jar;md5;b5027b2f02864d71560a99bd49442aab",
+            "jar": "./YY/pg.jar;md5;0870B6CCD06622CF02289CCA8454BA90",
             "api": "csp_PikPakShare",
             "searchable": 1,
             "quickSearch": 1,
