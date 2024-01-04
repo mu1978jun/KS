@@ -110,7 +110,7 @@
 			"searchable": 1,
 			"changeable": 0,
 			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$0;socks://192.168.0.2:1070","jar":"./YY/pg.jar;md5;47022072fc90563f1667f6a2cfcd7497"},
-		},
+
 
 
 
