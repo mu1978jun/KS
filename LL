@@ -101,7 +101,7 @@
 //{"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
 
 {"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"0;socks://192.168.0.2:1070","jar":"./YY/pg.jar;md5;47022072fc90563f1667f6a2cfcd7497"},
-
+{"key": "星星","name": "星星 | 海外","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0,"ext":"0;socks://192.168.0.2:1070","jar":"./YY/pg.jar;md5;47022072fc90563f1667f6a2cfcd7497"},
 
 
 
