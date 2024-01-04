@@ -107,8 +107,8 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-    "ext":"1;socks://192.168.0.2:1070"
-    },
+    "ext":"1;socks://192.168.0.2:1070","jar":"./YY/pg.jar;md5;47022072fc90563f1667f6a2cfcd7497"},
+  
 
  
 
