@@ -107,7 +107,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-    "ext":"1;socks://192.168.0.2:1081"
+    "ext":"1;socks://192.168.0.2:1070"
     },
 
  
