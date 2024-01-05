@@ -168,7 +168,7 @@
 
 
 
-
+{"key": "JustLive","name": "JustLive","type": 3,"api": "csp_JustLive","searchable": 1,"changeable": 0},
 {"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/lib/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/lib/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/js/虎牙直播.js"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
