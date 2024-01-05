@@ -97,7 +97,7 @@
     "jar": "./YY/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"
 },  
  
-{"key":"影视","name":"影视","type":3,"api":"csp_YingShi","searchable":1,"changeable":1"},
+
 
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 //{"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
