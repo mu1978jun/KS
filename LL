@@ -103,8 +103,7 @@
 //{"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
 
 {"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"0;socks://192.168.0.2:1070"},
-{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"ext":"0;socks://192.168.0.2:1070"},
-{"key":"獨播","name":"獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"./CC/duboku.json","ext":"0;socks://192.168.0.2:1070"},
+
 
 
 
