@@ -43,7 +43,7 @@
 //{"key":"Pan99","name":"盘99|4K","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenem.json$$$https://pan99.xyz$$$null$$$1"},
 {"key":"csp_Czsapp","name":"🏭厂长直连","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},  
 {"key": "zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
-{"key": "ytvip","name": "🕵️探探┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://vvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1},
+{"key": "ytvip","name": "🕵️探探┃影视","type": 3,"api": "csp_AppYsV2","ext": "http://vvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1,"jar": "./YY/fan.txt;md5;8ba7ff79221a3b1dd152646f48cd279c"},
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":".CC/tokenem.json$$$https://www.91panta.cn/$$$null$$$1"},
 {
     "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
