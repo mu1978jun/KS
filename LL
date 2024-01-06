@@ -102,7 +102,7 @@
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar": "./YY/fan.txt;md5;8ba7ff79221a3b1dd152646f48cd279c"},
 //{"key": "xyalist","name": "🍰鸭鸭网盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./CC/xyalist.json"},
 
-{"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"0;Socks://127.0.0.1:9981"},
+{"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"0;http://192.168.0.2:9982"},
 
 
 
