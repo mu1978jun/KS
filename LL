@@ -2,7 +2,7 @@
 {
   
 
-  "spider": "./YY/pg.jar;md5;5b3c0350ec0eaa30e78e974c43f49d6e",
+  "spider": "./YY/pg.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F",
    //"spider": "./YY/fan.txt;md5;8ba7ff79221a3b1dd152646f48cd279c",
    //"spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
    //"spider":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/fm.jar;md5;7a56a679fe7c45dda5a2ed7b820406f8",
