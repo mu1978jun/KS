@@ -133,8 +133,8 @@
 				"type": "rect",
 				"ratio": 1
 			},
-			"ext":"http://192.168.0.2:5678/tvbox/tokenem.json"
-		},
+			"ext":"http://192.168.0.2:5678/tvbox/tokenem.json","jar": "./YY/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1"},
+	
 
 
 
