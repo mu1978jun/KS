@@ -20,8 +20,16 @@
 
  
   "sites":[
+{
+      "key": "豆豆",
+      "name": "🐼️芭比豆┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 
-{"key": "豆瓣","name": "🐼️芭比豆┃推荐","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "./lib/douban.json"},
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key": "一起看 ","name": "🎉一起看┃App","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"Wogg","name":"😼玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenem.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1"},
