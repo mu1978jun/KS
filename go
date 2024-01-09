@@ -93,7 +93,7 @@
 
 
 
-{"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"0;http://192.168.0.2:9982"},
+{"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"0;Socks://192.168.0.2:9981"},
 
 
 
