@@ -77,7 +77,17 @@
 {"key": "439","name": "4️⃣439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"],"jar": "./YY/fan.jar;md5;fd784008ab71d81a178564841059756d"},
 {"key":"Alist","name":"💃丫丫4K","type":3,"api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js","searchable":1,"quickSearch":1,"jar" : "http://192.168.0.2:4567/spring.jar","filterable":0,"ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"},   
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/nmys.json","jar": "./YY/fan.txt;md5;8ba7ff79221a3b1dd152646f48cd279c"},
-
+{
+            "key": "sc1080",
+            "name": "🥗 圣城 ",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/SC1080.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
 
 
 
