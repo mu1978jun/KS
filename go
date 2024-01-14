@@ -94,7 +94,7 @@
 
 
 
-{"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"Socks://192.168.0.2:9981","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
+{"key": "泥巴","name": "🦐土坷垃","type": 3,"api": "csp_NiNi","searchable": 1,"changeable": 1,"ext":"Socks://192.168.0.2:1080","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
 
 
 
