@@ -30,7 +30,7 @@
 {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
 {"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
 {"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
-{"key":"YydsVip","name":"YYDSVIP|网盘","type":3,"api":"csp_YydsVip_Disable", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$http://yydsvip.cn$$$null$$$1","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
+
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
 {"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./YY/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"},  
 
@@ -110,13 +110,7 @@
 
 
 
-{
-			"key": "快帆",
-			"name": "快帆",
-			"type": 1,
-			"api": "https://api.kuaifan.tv/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1,"jar": "./YY/pg.jar;md5;09e941c7eaedf03e7c43058f62315f76"},
+
 	
 {"key":"新浪资源","name":"🎡新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["大陆剧","韩剧","港澳剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 {"key":"暴风资源","name":"🌪暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
