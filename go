@@ -30,7 +30,7 @@
 {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;3ebbd3eae72b34606168a24379d75a05"},
 {"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./YY/pg.jar;md5;3ebbd3eae72b34606168a24379d75a05"},
 {"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;3ebbd3eae72b34606168a24379d75a05"},
-{"key":"YydsVip","name":"YYDSVIP|网盘","type":3,"api":"csp_YydsVip_Disable", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1","jar": "./YY/pg.jar;md5;3ebbd3eae72b34606168a24379d75a05"},
+
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./YY/pg.jar;md5;3ebbd3eae72b34606168a24379d75a05"},
 {"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./YY/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"},  
 
