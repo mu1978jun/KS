@@ -1,0 +1,142 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+#备注：分别对应需修改标记处修改，一个是http 和 https也就80端口和443端口，使用443端口需使用域名解析，两个都需要进行修改，避免出错，若要加更多节点请再下方name下按回车按相同格式输入即可
+  - {name: 1210, server: 172.64.199.117, port: 80, client-fingerprint: random, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, servername: 1210.mmu340174.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/", headers: {Host: 1210.mmu340174.workers.dev}}, udp: true}
+  - {name: 1204, server: 172.64.88.26, port: 8080, client-fingerprint: random, type: vless, uuid: f5c180eb-fbce-49ac-9029-482eca9385c0, tls: true, tfo: false, servername: 1204.mmu340174.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/", headers: {Host: 1204.mmu340174.workers.dev}}, udp: true}
+
+  - {name: 666.mmu340174.workers.dev-HTTP-80, server: 666.mmu340174.workers.dev, port: 80, client-fingerprint: random, type: vless, uuid: fe3f1d82-4f85-4754-95ad-2c10c9a51eee, tls: false, tfo: false, servername: 666.mmu340174.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 666.mmu340174.workers.dev}}, udp: true}
+  - {name: www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel, server: cdn.xn--b6gac.eu.org, port: 80, client-fingerprint: random, type: vless, uuid: fe3f1d82-4f85-4754-95ad-2c10c9a51eee, tls: false, tfo: false, servername: www.mujiangj.cloudns.org, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: www.mujiangj.cloudns.org}}, udp: true}
+  - {name: 0.lince88.cloudns.biz-HTTP-80, server: 0.lince88.cloudns.biz, port: 80, client-fingerprint: random, type: vless, uuid: f5c180eb-fbce-49ac-9029-482eca9385c0, tls: false, tfo: false, servername: 0.lince88.cloudns.biz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 0.lince88.cloudns.biz}}, udp: true}
+  - {name: 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel, server: cdn-all.xn--b6gac.eu.org, port: 80, client-fingerprint: random, type: vless, uuid: f5c180eb-fbce-49ac-9029-482eca9385c0, tls: false, tfo: false, servername: 0.lince88.cloudns.biz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 0.lince88.cloudns.biz}}, udp: true}
+  - {name: 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel, server: cdn-all.xn--b6gac.eu.org, port: 443, client-fingerprint: random, type: vless, uuid: f5c180eb-fbce-49ac-9029-482eca9385c0, tls: false, tfo: false, servername: 0.lince88.cloudns.biz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 0.lince88.cloudns.biz}}, udp: true}
+
+  #此处回车可增加节点，以下两个节点为举例，正式使用不要在前面加#号，不然无效，
+  #- {name: 美国-HTTP, server: 192.203.230.240, port: 80, client-fingerprint: random, type: vless, uuid: 6c00e3f1-b0ec-425b-a5b8-3f786a50e402, tls: false, tfo: false, servername: 2222.bwvd9gh5-dcb.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/", headers: {Host: 2222.bwvd9gh5-dcb.workers.dev}}, udp: true}
+  #- {name: 美国-HTTPS, server: 2222.bwvd9gh5-dcb.workers.dev, port: 443, client-fingerprint: random, type: vless, uuid: 6c00e3f1-b0ec-425b-a5b8-3f786a50e402, tls: true, tfo: false, servername: 2222.bwvd9gh5-dcb.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 2222.bwvd9gh5-dcb.workers.dev}}, udp: true}
+@@ -23,12 +22,11 @@ proxy-groups:
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel  
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel  
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel  
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -39,12 +37,11 @@ proxy-groups:
+    interval: 300
+    proxies:
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel 
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -56,12 +53,11 @@ proxy-groups:
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel  
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel  
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -85,12 +81,11 @@ proxy-groups:
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel  
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -106,12 +101,11 @@ proxy-groups:
+      - 🎯 全球直连
+      - 🔰 节点选择
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel 
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -122,12 +116,11 @@ proxy-groups:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel 
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -139,12 +132,11 @@ proxy-groups:
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel    
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel  
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+@@ -165,12 +157,11 @@ proxy-groups:
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 1210 #修改名和名称1对应
+      - 1204 #修改名称和名称2对应
+
+      - 666.mmu340174.workers.dev-HTTP-80  
+      - www.mujiangj.cloudns.org-HTTP-80-cdn.xn--b6gac.eu.org-EDtunnel   
+      - 0.lince88.cloudns.biz-HTTP-80
+      - 0.lince88.cloudns.biz-HTTP-80-cdn-all.xn--b6gac.eu.org-EDtunnel 
+      - 0.lince88.cloudns.biz-HTTP-443-cdn-all.xn--b6gac.eu.org-EDtunnel  
+
+        #以下两个名称为举例，
+      #- 美国-HTTP
+      #- 美国-HTTPS
+      
+rules:
