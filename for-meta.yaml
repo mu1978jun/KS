@@ -20,8 +20,7 @@ proxies:
   #- {name: 美国-HTTPS, server: 2222.bwvd9gh5-dcb.workers.dev, port: 443, client-fingerprint: random, type: vless, uuid: 6c00e3f1-b0ec-425b-a5b8-3f786a50e402, tls: true, tfo: false, servername: 2222.bwvd9gh5-dcb.workers.dev, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: 2222.bwvd9gh5-dcb.workers.dev}}, udp: true}
 @@ -23,12 +22,11 @@ proxy-groups:
       - ♻️ 自动选择
-      - 🔯 故障转移
-      - 🔮 负载均衡
+      - 🎯 全球直连
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
 
@@ -51,8 +50,7 @@ proxies:
       #- 美国-HTTPS
 @@ -56,12 +53,11 @@ proxy-groups:
       - ♻️ 自动选择
-      - 🔯 故障转移
-      - 🔮 负载均衡
+      - 🎯 全球直连
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
 
@@ -67,8 +65,7 @@ proxies:
       #- 美国-HTTPS
 @@ -85,12 +81,11 @@ proxy-groups:
       - ♻️ 自动选择
-      - 🔯 故障转移
-      - 🔮 负载均衡
+      - 🎯 全球直连
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
 
@@ -82,8 +79,7 @@ proxies:
       #- 美国-HTTP
       #- 美国-HTTPS
 @@ -106,12 +101,11 @@ proxy-groups:
-      - 🔯 故障转移
-      - 🔮 负载均衡
+      - 🎯 全球直连
       - 🔰 节点选择
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
@@ -98,7 +94,7 @@ proxies:
       #- 美国-HTTP
       #- 美国-HTTPS
 @@ -122,12 +116,11 @@ proxy-groups:
-      - 🔮 负载均衡
+      - 🔰 节点选择
       - 🎯 全球直连
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
@@ -113,7 +109,7 @@ proxies:
       #- 美国-HTTP
       #- 美国-HTTPS
 @@ -139,12 +132,11 @@ proxy-groups:
-      - 🔯 故障转移
+      - 🎯 全球直连
       - ♻️ 自动选择
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
@@ -128,8 +124,7 @@ proxies:
       #- 美国-HTTP
       #- 美国-HTTPS
 @@ -165,12 +157,11 @@ proxy-groups:
-      - 🔯 故障转移
-      - 🔮 负载均衡
+      - 🎯 全球直连
       - ♻️ 自动选择
       - 1210 #修改名和名称1对应
       - 1204 #修改名称和名称2对应
@@ -143,6 +138,8 @@ proxies:
         #以下两个名称为举例，
       #- 美国-HTTP
       #- 美国-HTTPS
+      
+
       
   rules:
     - RULE-SET,applications,🎯 全球直连
