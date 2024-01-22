@@ -312,6 +312,8 @@ proxy-groups:
 #（四区）==============================（代理规则）
 #代理规则可自行添加 
 rules:
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,🌍选择代理节点
