@@ -1,0 +1,313 @@
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+  - 223.5.5.5
+  - 8.8.8.8
+  nameserver:
+  - https://dns.alidns.com/dns-query
+  - https://doh.pub/dns-query
+  fallback:
+  - https://1.0.0.1/dns-query
+  - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+    - 240.0.0.0/4
+proxies:
+- name: 油管绵阿羊_Canada_vless_01
+  type: vless
+  server: xiao.mujian.dedyn.io
+  port: 443
+  uuid: f5c180eb-fbce-49ac-9029-482eca9385c0
+  tls: true
+  servername: 0.xiaoyuyu.cloudns.org
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: 0.xiaoyuyu.cloudns.org
+  client-fingerprint: chrome
+- name: 油管绵阿羊_United States_vless_02
+  type: vless
+  server: cu.dongtaiwang3.com
+  port: 443
+  uuid: 7b671cd2-233d-406c-88da-1c687727dc52
+  tls: true
+  servername: fr.freeh1.xyz
+  network: ws
+  ws-opts:
+    path: /kfhaws
+    headers:
+      host: fr.freeh1.xyz
+  client-fingerprint: chrome
+- name: 油管绵阿羊_United States_ss_11
+  type: ss
+  server: 167.160.90.252
+  port: 8883
+  cipher: 2022-blake3-aes-128-gcm
+  password: lolvK9uAhEDYTMuqCRblBg==
+  plugin: shadow-tls
+  client-fingerprint: chrome
+  plugin-opts:
+    host: addons.mozilla.org
+    password: d3971b31-e16b-4af2-b430-afb896380543
+    version: 3
+  smux:
+    enabled: true
+    protocol: h2mux
+    padding: true
+    max-connections: '8'
+    min-streams: '16'
+    statistic: true
+    only-tcp: false
+- name: 油管绵阿羊_United States_vless_21
+  type: vless
+  server: cu.dongtaiwang3.com
+  port: 443
+  uuid: ffb15cd2-0521-49de-b8aa-fb15d58c8075
+  tls: true
+  servername: v2ray3.freegradely.xyz
+  network: ws
+  ws-opts:
+    path: /bqbows
+    headers:
+      host: v2ray3.freegradely.xyz
+  client-fingerprint: chrome
+- name: 油管绵阿羊_United States_vless_31
+  type: vless
+  server: cu.dongtaiwang3.com
+  port: 443
+  uuid: 7b671cd2-233d-406c-88da-1c687727dc52
+  tls: true
+  servername: fr.freeh1.xyz
+  network: ws
+  ws-opts:
+    path: /kfhaws
+    headers:
+      host: fr.freeh1.xyz
+  client-fingerprint: chrome
+- name: 油管绵阿羊_United States_vmess_41
+  type: vmess
+  server: cm.dongtaiwang3.com
+  port: 443
+  cipher: auto
+  uuid: f5c180eb-fbce-49ac-9029-482eca9385c0
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  servername: ''
+  network: ws
+  ws-opts:
+    path: /gzogws
+    headers:
+      host: xray1.freeh1.xyz
+- name: 油管绵阿羊_Canada_vmess_51
+  type: vmess
+  server: dongtaiwang3.com
+  port: 443
+  cipher: auto
+  uuid: f5c180eb-fbce-49ac-9029-482eca9385c0
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  servername: ''
+  network: ws
+  ws-opts:
+    path: /gzogws
+    headers:
+      host: xray1.freeh1.xyz
+- name: 油管绵阿羊_Taiwan_hysteria_61
+  type: hysteria
+  server: www2.dtku48.xyz
+  port: 22334
+  auth-str: dongtaiwang.com
+  alpn:
+  - h3
+  protocol: udp
+  up: 11 Mbps
+  down: 55 Mbps
+  skip-cert-verify: true
+- name: 油管绵阿羊_France_hysteria2_71
+  type: hysteria2
+  server: 51.158.54.46
+  port: 44550
+  password: dongtaiwang.com
+  sni: bing.com
+  skip-cert-verify: true
+- name: 油管绵阿羊_United States_hysteria2_81
+  type: hysteria2
+  server: 45.150.165.84
+  port: 8881
+  password: d017e316-82cb-441c-8eea-7b5e9de64a20
+  obfs: salamander
+  obfs-password: d017e316-82cb-441c-8eea-7b5e9de64a20
+  skip-cert-verify: true
+  up: 2 Mbps
+  down: 10 Mbps
+- name: 油管绵阿羊_Taiwan_hysteria_91
+  type: hysteria
+  server: www.dtku50.xyz
+  port: 32408
+  sni: www.amazon.cn
+  skip-cert-verify: true
+  alpn:
+  - h3
+  protocol: udp
+  auth_str: dongtaiwang.com
+  up: 2
+  down: 10
+- name: 油管绵阿羊_France_hy_0
+  type: hysteria
+  server: 51.158.54.46
+  port: 55396
+  ports: 55396
+  auth_str: dongtaiwang.com
+  up: 80
+  down: 100
+  fast-open: true
+  protocol: udp
+  sni: youku.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 油管绵阿羊_United States_hy_1
+  type: hysteria
+  server: 173.234.25.52
+  port: 30072
+  ports: 30072
+  auth_str: dongtaiwang.com
+  up: 80
+  down: 100
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 油管绵阿羊_United States_hy_2
+  type: hysteria
+  server: 108.181.22.239
+  port: 39967
+  ports: 39967
+  auth_str: dongtaiwang.com
+  up: 80
+  down: 100
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 油管绵阿羊_United States_hy_3
+  type: hysteria
+  server: 167.160.91.115
+  port: 41189
+  ports: 41189
+  auth_str: bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF
+  up: 80
+  down: 100
+  fast-open: true
+  protocol: udp
+  sni: www.amazon.cn
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 油管绵阿羊_France_hy2_0
+  type: hysteria2
+  server: 62.210.101.0
+  port: 52465
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 油管绵阿羊_United States_hy2_1
+  type: hysteria2
+  server: 64.110.25.11
+  port: 33337
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 油管绵阿羊_United States_hy2_2
+  type: hysteria2
+  server: 64.110.25.11
+  port: 33337
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+- name: 油管绵阿羊_United States_hy2_3
+  type: hysteria2
+  server: 108.181.24.77
+  port: 18775
+  password: dongtaiwang.com
+  fast-open: true
+  sni: www.bing.com
+  skip-cert-verify: true
+proxy-groups:
+- name: 节点选择
+  type: select
+  proxies:
+  - 自动选择
+  - DIRECT
+  - 油管绵阿羊_Canada_vless_01
+  - 油管绵阿羊_United States_vless_02
+  - 油管绵阿羊_United States_ss_11
+  - 油管绵阿羊_United States_vless_21
+  - 油管绵阿羊_United States_vless_31
+  - 油管绵阿羊_United States_vmess_41
+  - 油管绵阿羊_Canada_vmess_51
+  - 油管绵阿羊_Taiwan_hysteria_61
+  - 油管绵阿羊_France_hysteria2_71
+  - 油管绵阿羊_United States_hysteria2_81
+  - 油管绵阿羊_Taiwan_hysteria_91
+  - 油管绵阿羊_France_hy_0
+  - 油管绵阿羊_United States_hy_1
+  - 油管绵阿羊_United States_hy_2
+  - 油管绵阿羊_United States_hy_3
+  - 油管绵阿羊_France_hy2_0
+  - 油管绵阿羊_United States_hy2_1
+  - 油管绵阿羊_United States_hy2_2
+  - 油管绵阿羊_United States_hy2_3
+- name: 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+  - 油管绵阿羊_Canada_vless_01
+  - 油管绵阿羊_United States_vless_02
+  - 油管绵阿羊_United States_ss_11
+  - 油管绵阿羊_United States_vless_21
+  - 油管绵阿羊_United States_vless_31
+  - 油管绵阿羊_United States_vmess_41
+  - 油管绵阿羊_Canada_vmess_51
+  - 油管绵阿羊_Taiwan_hysteria_61
+  - 油管绵阿羊_France_hysteria2_71
+  - 油管绵阿羊_United States_hysteria2_81
+  - 油管绵阿羊_Taiwan_hysteria_91
+  - 油管绵阿羊_France_hy_0
+  - 油管绵阿羊_United States_hy_1
+  - 油管绵阿羊_United States_hy_2
+  - 油管绵阿羊_United States_hy_3
+  - 油管绵阿羊_France_hy2_0
+  - 油管绵阿羊_United States_hy2_1
+  - 油管绵阿羊_United States_hy2_2
+  - 油管绵阿羊_United States_hy2_3
+rules:
+- DOMAIN,clash.razord.top,DIRECT
+- DOMAIN,yacd.haishan.me,DIRECT
+- GEOIP,LAN,DIRECT
+- GEOIP,CN,DIRECT
+- MATCH,节点选择
