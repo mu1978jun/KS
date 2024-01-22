@@ -88,15 +88,15 @@ proxies:
   type: vless
   server: xiao.mujian.dedyn.io                          #解析的域名或者优选域名IP
   port: 443                                      #自定义的端口
-  uuid: 3cc9a51c-db76-4ad2-a76b-8cb993bddb73       #自定义的uuid
+  uuid: 3aad2932-109f-47e9-8815-f4587f627459       #自定义的uuid
   udp: true
   tls: true
   network: ws
-  servername: 0.xiaoyuyu.cloudns.org                     #sni域名，与下面的host一致
+  servername: 6.internet-info.eu.org                     #sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              #" "内自定义的path路径
     headers:
-      Host: 0.xiaoyuyu.cloudns.org                       #host域名，与上面的servername一致
+      Host: 6.internet-info.eu.org                       #host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: vless-ws节点1                               #可自定义名称
