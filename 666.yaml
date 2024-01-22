@@ -84,7 +84,7 @@ proxies:
   client-fingerprint: chrome
 
 #==============================（vless-ws-tls节点）
-- name: vless-ws-tls节点                           #可自定义名称
+- name: vless-ws-tls节点1                           #可自定义名称
   type: vless
   server: xiao.mujian.dedyn.io                          #解析的域名或者优选域名IP
   port: 443                                      #自定义的端口
@@ -99,7 +99,7 @@ proxies:
       Host: 0.xiaoyuyu.cloudns.org                       #host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
-- name: vless-ws节点                               #可自定义名称
+- name: vless-ws节点1                               #可自定义名称
   type: vless
   server: xiao.mujian.dedyn.io                          #解析的域名或者优选域名IP
   port: 8880                                       #自定义的端口
@@ -274,8 +274,8 @@ proxy-groups:
   strategy: round-robin
   proxies:
     - warp-wireguard节点                                  #自定义添加协议的name字段
-    - vless-ws-tls节点
-    - vless-ws节点
+    - vless-ws-tls节点1
+    - vless-ws节点1
 
 - name: 自动选择
   type: url-test
@@ -285,7 +285,8 @@ proxy-groups:
   proxies:
     - vless-reality-vision节点                            #自定义添加协议的name字段
     - vless-reality-grpc节点
-    
+    - vless-ws-tls节点1
+    - vless-ws节点1
 - name: 🌍选择代理节点
   type: select
   proxies:
@@ -295,8 +296,8 @@ proxy-groups:
     - vless-reality-vision节点                                    
     - vless-reality-grpc节点
     - vless-xtls-rprx-vision节点
-    - vless-ws-tls节点
-    - vless-ws节点
+    - vless-ws-tls节点1
+    - vless-ws节点1
     - vmess-ws-tls节点
     - vmess-ws节点
     - trojan-tcp-tls节点
@@ -312,8 +313,6 @@ proxy-groups:
 #（四区）==============================（代理规则）
 #代理规则可自行添加 
 rules:
-  - DOMAIN,clash.razord.top,DIRECT
-  - DOMAIN,yacd.haishan.me,DIRECT
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,🌍选择代理节点
