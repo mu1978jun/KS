@@ -86,7 +86,7 @@ proxies:
 #==============================（vless-ws-tls节点）
 - name: vless-ws-tls节点1                           #可自定义名称
   type: vless
-  server: xiao.mujian.dedyn.io                          #解析的域名或者优选域名IP
+  server: 6.internet-info.eu.org                          #解析的域名或者优选域名IP
   port: 443                                      #自定义的端口
   uuid: 3aad2932-109f-47e9-8815-f4587f627459       #自定义的uuid
   udp: true
