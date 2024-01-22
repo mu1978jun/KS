@@ -1,0 +1,240 @@
+######### 锚点 start #######
+# 策略组相关
+S1: &S1 {type: select, proxies: [🎯 代理,🇭🇰 香港,🇨🇳 台湾,🇯🇵 日本,🇸🇬 新加坡,🇺🇸 美国,🌐 其它地区]}
+S2: &S2 {type: select, proxies: [🔰 直连,🇭🇰 香港,🇨🇳 台湾,🇯🇵 日本,🇸🇬 新加坡,🇺🇸 美国,🌐 其它地区]}
+F1: &F1 {type: fallback, proxies: [🇭🇰 香港,🇨🇳 台湾,🇯🇵 日本,🇸🇬 新加坡,🇺🇸 美国,🌐 其它地区]}
+F2: &F2 {type: fallback, proxies: [🇺🇸 美国,🇯🇵 日本,🇨🇳 台湾,🇸🇬 新加坡,🇭🇰 香港,🌐 其它地区]}
+
+#这里是订阅更新和延迟测试相关的
+p: &p {type: http, interval: 86400, health-check: {enable: true, url: https://www.gstatic.com/generate_204, interval: 86400}}
+
+######### 锚点 end #######
+
+
+# url 里填写自己的订阅,名称不能重复
+proxy-providers:
+  provider1:
+    <<: *p
+    url: "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/666.yaml"
+
+ipv6: false
+allow-lan: true
+mixed-port: 7893
+redir-port: 7892
+tproxy-port: 7895
+port: 7890
+socks-port: 7891
+mode: rule
+unified-delay: false
+tcp-concurrent: true
+external-controller: 0.0.0.0:9090
+secret: '123456'
+bind-address: "*"
+authentication:
+ - Clash:dkw3HS9U
+external-ui: "/usr/share/openclash/ui"
+external-ui-url: "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip"
+
+find-process-mode: strict
+global-client-fingerprint: chrome
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+sniffer:
+  enable: true
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+    TLS:
+      ports: [443, 8443]
+    QUIC:
+      ports: [443, 8443]
+  skip-domain:
+    - "Mijia Cloud"
+tun:
+  enable: true
+  stack: mixed
+  dns-hijack:
+    - "any:53"
+  auto-route: true
+  auto-detect-interface: true
+
+dns:
+  enable: true
+  listen: 0.0.0.0:7874
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*"
+    - "+.lan"
+    - "+.local"
+  nameserver:
+    - udp://127.0.0.1:5335
+
+proxies:
+- name: "🔰 直连"
+  type: direct
+  udp: true
+  
+proxy-groups:
+  - {name: 🎯 代理, <<: *F1}
+  - {name: 🔎 Google, <<: *S1}
+  - {name: 🎞️ YouTube, <<: *S1}
+  - {name: 🤖 AI, <<: *F2}
+  - {name: ☎️ Telegram, <<: *S1}
+  - {name: 🖥️ Github, <<: *S1}
+  - {name: 🦜 Twitter, <<: *S1}
+  - {name: 📸 Instagram, <<: *S1}
+  - {name: 💬 Discord, <<: *S1}
+  - {name: ⛅ Cloudflare, <<: *S1}
+  - {name: 🐋 Docker, <<: *S1}
+  - {name: 🍿 Netflix, <<: *S1}
+  - {name: 🍎 Apple, <<: *S2}
+  - {name: Ⓜ️ Microsoft, <<: *S2}
+  - {name: 🎬 Bilibili, <<: *S2}
+  - {name: ♻️ 国内, <<: *S2}
+  - {name: 🗺️ 国外, <<: *S1}
+  - {name: 🐟 漏网之鱼, <<: *S1}
+
+#分隔,下面是地区分组
+  - {name: 🇭🇰 香港, type: fallback , include-all-providers: true, filter: "(?i)港|hk|hongkong|hong kong", exclude-filter: "香港实验性"}
+  - {name: 🇨🇳 台湾, type: fallback , include-all-providers: true, filter: "(?i)台|tw|taiwan", exclude-filter: "台湾实验性"}
+  - {name: 🇯🇵 日本, type: fallback , include-all-providers: true, filter: "(?i)日|jp|japan", exclude-filter: "日本实验性"}
+  - {name: 🇺🇸 美国, type: fallback , include-all-providers: true, filter: "(?i)美|us|unitedstates|united states", exclude-filter: "美国实验性"}
+  - {name: 🇸🇬 新加坡, type: fallback , include-all-providers: true, filter: "(?i)新加坡|sg|singapore|狮城", exclude-filter: "新加坡实验性"}
+  - {name: 🌐 其它地区, type: select , include-all-providers: true, filter: "(?i)^(?!.*(?:🇭🇰|🇯🇵|🇺🇸|🇸🇬|🇨🇳|港|hk|hongkong|台|tw|taiwan|日|jp|japan|狮城|新加坡|sg|singapore|美|us|unitedstates)).*"}
+  - {name: 🌏 全部节点, type: select , include-all-providers: true}
+
+rules:
+# 自定义规则
+  - DOMAIN-SUFFIX,plex.tv,🔰 直连
+  - DOMAIN-SUFFIX,plex.direct,🔰 直连
+  - SRC-IP-CIDR,192.168.2.253/32,🔰 直连
+  - SRC-PORT,21042,🔰 直连
+  - DOMAIN-KEYWORD,ui.com,🔰 直连
+  - DOMAIN-KEYWORD,shutterstock.com,🔰 直连
+  - DOMAIN-KEYWORD,bard,🤖 AI
+  - DOMAIN-SUFFIX,googleapis.com,🤖 AI
+  - DOMAIN-KEYWORD,copilot,🤖 AI
+  - DOMAIN-SUFFIX,oaistatic.com,🤖 AI
+  - DOMAIN-SUFFIX,oaiusercontent.com,🤖 AI
+  - DOMAIN-KEYWORD,thepiratebay,🎯 代理
+  - DOMAIN-KEYWORD,kickasstorrents,🎯 代理
+  - DOMAIN-KEYWORD,badasstorrents,🎯 代理
+# 域名规则集
+  - GEOIP,lan,🔰 直连,no-resolve
+  - RULE-SET,github_domain,🖥️ Github
+  - RULE-SET,openai_domain,🤖 AI
+  - RULE-SET,youtube_domain,🎞️ YouTube
+  - RULE-SET,google_domain,🔎 Google
+  - RULE-SET,telegram_domain,☎️ Telegram
+  - RULE-SET,twitter_domain,🦜 Twitter
+  - RULE-SET,instagram_domain,📸 Instagram
+  - RULE-SET,netflix_domain,🍿 Netflix
+  - RULE-SET,spotify_domain,🎯 代理
+  - RULE-SET,discord_domain,💬 Discord
+  - RULE-SET,cloudflare_domain,⛅ Cloudflare
+  - RULE-SET,docker_domain,🐋 Docker
+  - RULE-SET,bilibili_domain,🎬 Bilibili
+  - RULE-SET,apple_domain,🍎 Apple
+  - RULE-SET,onedrive_domain,♻️ 国内
+  - RULE-SET,microsoft_domain,Ⓜ️ Microsoft
+  - RULE-SET,geolocation-!cn,🗺️ 国外
+# IP规则集
+  - RULE-SET,google_ip,🔎 Google
+  - RULE-SET,telegram_ip,☎️ Telegram
+  - RULE-SET,netflix_ip,🍿 Netflix
+  - RULE-SET,twitter_ip,🦜 Twitter
+  - RULE-SET,cloudflare_ip,⛅ Cloudflare
+  - RULE-SET,apple_ip,🍎 Apple
+  - RULE-SET,cn_domain,♻️ 国内
+  - RULE-SET,cn_ip,♻️ 国内
+  - MATCH,🐟 漏网之鱼
+
+rule-anchor:
+  ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: yaml}
+  domain: &domain {type: http, interval: 86400, behavior: domain, format: yaml}
+rule-providers:
+  private:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.yaml"
+  cn_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml"
+  github_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.yaml"
+  openai_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/openai.yaml"
+  twitter_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.yaml"
+  youtube_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.yaml"
+  google_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml"
+  telegram_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml"
+  netflix_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.yaml"
+  bilibili_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bilibili.yaml"
+  spotify_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml"
+  apple_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml"
+  microsoft_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.yaml"
+  instagram_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/instagram.yaml"
+  discord_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/discord.yaml"
+  cloudflare_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cloudflare.yaml"
+  docker_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/docker.yaml"
+  onedrive_domain:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.yaml"
+  geolocation-!cn:
+    <<: *domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml"
+
+  cn_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.yaml"
+  google_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.yaml"
+  netflix_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.yaml"
+  twitter_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/twitter.yaml"
+  telegram_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml"
+  apple_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.yaml"
+  cloudflare_ip:
+    <<: *ip
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cloudflare.yaml"
