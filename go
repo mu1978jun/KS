@@ -23,18 +23,18 @@
 
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key": "一起看 ","name": "🎉一起看┃App","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key":"Wogg","name":"😼玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"影视车","name":"🐻‍❄️影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
+{"key":"Wogg","name":"😼玩偶哥哥|阿里","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar;md5;3a4e885aa60dfdcc08099bef67796876"},
+{"key":"影视车","name":"🐻‍❄️影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar"},
+{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./YY/pg.jar"},
 
-{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
+{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5"},
+{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./YY/pg.jar"},
+{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar"},
 
-{"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
+{"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./YY/pg.jar;md5"},
 {"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./YY/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"},  
 
-{"key":"AliShare","name":"🤖阿里云┃4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$./lib/alishare.txt","jar":"./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"}, 
+{"key":"AliShare","name":"🤖阿里云┃4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$./lib/alishare.txt","jar":"./YY/pg.jar"}, 
 {"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy66.com/"},
 {"key": "zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
@@ -74,7 +74,7 @@
     "searchable" : 1
   }, 
   
-{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$./CC/pikpakclass.json$$$http://192.168.0.2:5678/tvbox/pikpakclass.a.json","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
+{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$./CC/pikpakclass.json$$$http://192.168.0.2:5678/tvbox/pikpakclass.a.json","jar": "./YY/pg.jar"},
 
 {"key": "439","name": "4️⃣439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"],"jar": "./YY/fan.jar;md5;fd784008ab71d81a178564841059756d"},
 {"key":"Alist","name":"💃丫丫4K","type":3,"api":"http://192.168.0.2:5678/tvbox/libs/alist.min.js","searchable":1,"quickSearch":1,"jar" : "http://192.168.0.2:4567/spring.jar","filterable":0,"ext":"http://192.168.0.2:5678/tvbox/json/alist.json;200;video"},   
@@ -139,7 +139,7 @@
 				"type": "rect",
 				"ratio": 1
 			},
-			"ext":"http://192.168.0.2:5678/tvbox/tokenem.json","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
+			"ext":"http://192.168.0.2:5678/tvbox/tokenem.json","jar": "./YY/pg.jar"},
 	
 
 
@@ -149,20 +149,20 @@
 
 
 
-{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json" ,"jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json" ,"jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"}, 
-{"key":"DaPanSo","name":"😼大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://dapanso.com$$$null","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"}, 
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"}, 
+{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json","jar": "./YY/pg.jar"},
+{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json" ,"jar": "./YY/pg.jar"},
+{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json" ,"jar": "./YY/pg.jar"},
+{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar"}, 
+{"key":"DaPanSo","name":"😼大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://dapanso.com$$$null","jar": "./YY/pg.jar"},
+{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar"},
+{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar"}, 
+{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2:5678/tvbox/tokenm.json+auto|4k","jar": "./YY/pg.jar"}, 
  
 
 
 
 
-{"key": "JustLive","name": "JustLive","type": 3,"api": "csp_JustLive","searchable": 1,"changeable": 0,"jar": "./YY/pg.jar;md5;d8e0148c0fc87b7bd19f913ddee6ec4b"},
+{"key": "JustLive","name": "JustLive","type": 3,"api": "csp_JustLive","searchable": 1,"changeable": 0,"jar": "./YY/pg.jar"},
 {"key":"drpy_js_斗鱼","name":"🐋斗鱼[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/lib/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"🐯虎牙[js]","type":3,"api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/lib/drpy2.min.js","ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/HT/master/js/虎牙直播.js"},
 {"key":"py_huya","name":"🐯虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/OPG/bo/raw/main/Q/huya.py"}
