@@ -40,7 +40,7 @@
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {
-    "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
+    "ext" : "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyIsInRva2VuIjoiIn0=",
     "filterable" : 1,
     "quickSearch" : 1,
     "name" : "💃小雅4K",
@@ -57,7 +57,7 @@
     "searchable" : 1
   },
 {
-    "ext" : "eyJhcGlLZXkiOiJlMmRlOWY2ZS0yOTE0LTQzYjktOWVhYi0yNzM1NWViYzk4NDEiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyJ9",
+    "ext" : "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyIsInRva2VuIjoiIn0=",
     "filterable" : 1,
     "quickSearch" : 1,
     "name" : "BiliBili",
