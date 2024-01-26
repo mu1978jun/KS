@@ -32,7 +32,7 @@
 {"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar"},
 
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./YY/pg.jar"},
-{"key": "996","name": "🐳996┃App","type": 3,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar": "./YY/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"},  
+{"key": "996影院","name": "996影院","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"ext":"https://www.cs1369.com$$$null$$$1","jar": "./YY/pg.jar"},
 
 {"key":"AliShare","name":"🤖阿里云┃4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$./lib/alishare.txt","jar":"./YY/pg.jar"}, 
 {"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy66.com/"},
