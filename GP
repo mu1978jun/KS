@@ -1,5 +1,5 @@
 {
-  "spider": "./ok.png;md5;f998449d3fa0a92e65e500dc0042d1e7",
+  "spider": "./YY/ok.png;md5;f998449d3fa0a92e65e500dc0042d1e7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
