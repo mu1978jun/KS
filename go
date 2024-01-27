@@ -30,7 +30,7 @@
 {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 {"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 {"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
-
+{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$null$$$1","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 {"key":"Panta","name":"盘Ta","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2:5678/tvbox/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 {"key": "996影院","name": "996影院","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"ext":"https://www.cs1369.com$$$null$$$1","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 
