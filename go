@@ -38,24 +38,22 @@
 {"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy66.com/"},
 {"key": "zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-
 {
-    "ext" : "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyIsInRva2VuIjoiIn0=",
-    "filterable" : 1,
-    "quickSearch" : 1,
-    "name" : "💃小雅4K",
-    "viewType" : {
-      "style" : {
-        "type" : "rect"
-      }
-    },
-    "changeable" : 0,
-    "jar" : "http://192.168.0.2:4567/spring.jar",
-    "api" : "csp_XiaoYa",
-    "type" : 3,
-    "key" : "csp_XiaoYa",
-    "searchable" : 1
-  },
+            "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyIsInRva2VuIjoiIn0=",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "💃小雅4K",
+            "changeable": 0,
+            "jar": "http://192.168.0.2:4567/spring.jar",
+            "style": {
+                "type": "rect"
+            },
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
+
 {
     "ext" : "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4wLjI6NDU2NyIsInRva2VuIjoiIn0=",
     "filterable" : 1,
