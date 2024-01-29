@@ -92,7 +92,7 @@
 
 
 {
-      "key": "Nbys",
+      "key": "csp_Nbys",
       "name": "🛫泥巴",
       "type": 3,
       "api": "csp_NiNi",
