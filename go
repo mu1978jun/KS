@@ -93,7 +93,7 @@
 
 {
       "key": "Nbys",
-      "name": "🛫泥巴┃飞",
+      "name": "🛫泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
