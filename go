@@ -90,7 +90,7 @@
         },
 
 
-{"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1,"ext":"0$$$http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
+{"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1,"ext":"0$$$","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 	
 
 {
