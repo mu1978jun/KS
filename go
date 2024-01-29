@@ -91,15 +91,7 @@
 
 
 
-{
-      "key": "csp_Nbys",
-      "name": "🛫泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "filterable":1,
-      "changeable": 1, 
-      "ext":"0$$$http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
+{"key":"csp_Nbys","name":"泥巴┃海外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.0.2:1082"},
 {
 			"key": "星星",
 			"name": "🛫星星",
@@ -109,15 +101,7 @@
 			"changeable": 0,
 			"ext":"http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 	
-{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
-	
+
 
 
 
