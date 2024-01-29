@@ -92,10 +92,10 @@
 
 
 	
-
+{ "key":"csp_YingShi","name":"🛫影视|海外","type":3,"api":"csp_YingShi","ext":"http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 {
 			"key": "星星",
-			"name": "🛫星星",
+			"name": "🛫星星|海外",
 			"type": 3,
 			"api": "csp_Star",
 			"searchable": 1,
