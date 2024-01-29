@@ -99,8 +99,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1, 
-      "ext":"http://192.168.0.2:1082" 
-    },
+      "ext":"0$$$http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
+
 
 
 
