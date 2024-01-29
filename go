@@ -99,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1, 
-      "ext":"http:192.168.0.2:1082" 
+      "ext":"http://192.168.0.2:1082" 
     },
 
 
