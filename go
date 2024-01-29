@@ -91,7 +91,16 @@
 
 
 
-
+{
+      "key": "Nbys",
+      "name": "🛫泥巴┃飞",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1, 
+      "ext":"http:192.168.0.2:1082" 
+    },
 
 
 
