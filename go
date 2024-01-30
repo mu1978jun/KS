@@ -153,7 +153,7 @@
 
 
 
-{"key":"csp_Nbys","name":"泥巴┃飞","type":3,"api":"csp_NiNi",quickSearch":1,"filterable":1,"ext":"http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
+{"key":"csp_Nbys","name":"泥巴┃飞","type":3,"api":"csp_NiNi",quickSearch":1,"filterable":1,"ext":"0$$$http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 
 
 
