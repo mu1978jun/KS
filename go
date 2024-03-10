@@ -52,7 +52,7 @@
             "filterable": 1,
             "changeable": 1
         },
-
+{"key":"bdys","name":"哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./js/bdys_open.js"},
 
 
 	
