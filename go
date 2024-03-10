@@ -2,7 +2,7 @@
   
 
    //"spider": "./YY/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
-   "spider": "./YY/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+   "spider": "./YY/fan.txt",
    //"spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/uyv0t678c488189af47bb91dc108484d17431.jar;md5;91b04592e14b3cc30f34c1324a59e8ad",
    //"spider":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/mu1978jun/KS/main/YY/fm.jar;md5;7a56a679fe7c45dda5a2ed7b820406f8",
    "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
