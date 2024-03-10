@@ -35,7 +35,7 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
     },
-
+{"key":"nongmin","name":"农民","type":3,"searchable":1,"changeable":1,"api":"./js/nongmin_open.js"},	
 {"key": "T4-360",
       "name": "360影视大全",
       "type": 4,
