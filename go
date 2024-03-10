@@ -24,15 +24,12 @@
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key": "一起看 ","name": "🎉一起看┃App","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key":"AliShare","name":"🤖阿里云┃4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://192.168.0.2/tokenm.json$$$./lib/alishare.txt","jar":"./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"}, 
-{"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy66.com/"},
-{"key": "zxzj","name": "📗在线┃直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
-{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 
 
 
-{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./CC/nmys.json","jar": "./YY/fan.txt;md5;8ba7ff79221a3b1dd152646f48cd279c"},
+
+
 {
             "key": "sc1080",
             "name": "🥗 圣城 ",
@@ -48,15 +45,7 @@
 
 
 	
-{ "key":"csp_YingShi","name":"🛫影视|海外","type":3,"api":"csp_YingShi","ext":"http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
-{
-			"key": "星星",
-			"name": "🛫星星|海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext":"http://192.168.0.2:1082","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
+
 	
 
 
@@ -113,14 +102,14 @@
 
 
 
-{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":30, "ext":"http://192.168.0.2/tokenm.json","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
-{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2/tokenm.json" ,"jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
-{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2/tokenm.json" ,"jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
-{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"}, 
-{"key":"DaPanSo","name":"😼大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2/tokenm.json$$$https://dapanso.com$$$null","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
-{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"}, 
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"}, 
+{"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan","timeout":30, "ext":"http://192.168.0.2/tokenm.json","jar": "./YY/pg.jar"},
+{"key":"Dovx", "name": "阿里|Dovx", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2/tokenm.json" ,"jar": "./YY/pg.jar"},
+{"key":"Gitcafe", "name": "阿里|小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://192.168.0.2/tokenm.json" ,"jar": "./YY/pg.jar"},
+{"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar"}, 
+{"key":"DaPanSo","name":"😼大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://192.168.0.2/tokenm.json$$$https://dapanso.com$$$null","jar": "./YY/pg.jar"},
+{"key":"PanSearch","name":"🙀盘Se搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar"},
+{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar"}, 
+{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://192.168.0.2/tokenm.json+auto|4k","jar": "./YY/pg.jar"}, 
  
 
 
