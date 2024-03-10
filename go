@@ -21,7 +21,7 @@
       "filterable": 0
     },
 
-{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {
       "key": "厂长",
       "name": "📔厂长┃无广",
