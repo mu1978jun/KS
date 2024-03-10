@@ -22,7 +22,18 @@
     },
 
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
-{"key": "一起看 ","name": "🎉一起看┃App","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
+{
+      "key": "厂长",
+      "name": "📔厂长┃无广",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
 
 
 
