@@ -22,7 +22,8 @@
     },
 
 {"key":"玩偶哥哥","name":"🐨玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./jar/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-{
+{"key":"bdys","name":"哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./js/bdys_open.js"},
+	  {
       "key": "厂长",
       "name": "📔厂长┃无广",
       "type": 3,
@@ -35,7 +36,16 @@
       "ext": "https://www.czzy77.com/"
     },
 
-
+{"key": "T4-360",
+      "name": "360影视大全",
+      "type": 4,
+      "api": "https://catbox.n13.club/360.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
+    },
 
 
 
@@ -52,7 +62,7 @@
             "filterable": 1,
             "changeable": 1
         },
-{"key":"bdys","name":"哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./js/bdys_open.js"},
+
 
 
 	
