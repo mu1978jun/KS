@@ -35,7 +35,17 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
     },
-{"key":"nongmin","name":"👨🏻‍🌾农民","type":3,"searchable":1,"changeable":1,"api":"./js/nongmin_open.js"},	
+{
+      "key": "nmys_js",
+      "name": "🐟农民|在线",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
+      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
+      "timeout": 15
+    },
 {"key": "T4-360",
       "name": "💝360影视大全",
       "type": 4,
