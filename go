@@ -124,7 +124,47 @@
 			},
 			"ext":"http://192.168.0.2/tokenm.json","jar": "./YY/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"},
 	
-
+{ 
+      "key": "泥巴2", 
+      "name": "泥巴 | 代理72", 
+      "type": 3, 
+      "api": "csp_NiNi", 
+      "searchable": 1, 
+      "filterable": 1, 
+      "changeable": 0, 
+      "ext":"0$$$socks5://127.0.0.1:10072" 
+    },
+      { 
+      "key": "泥巴3", 
+      "name": "泥巴 | 代理73", 
+      "type": 3, 
+      "api": "csp_NiNi", 
+      "searchable": 1, 
+      "filterable": 1, 
+      "changeable": 0, 
+      "ext":"0$$$socks5://127.0.0.1:10073" 
+    },  
+{ 
+      "key": "泥巴4", 
+      "name": "泥巴 | 代理74", 
+      "type": 3, 
+      "api": "csp_NiNi", 
+      "searchable": 1, 
+      "filterable": 1, 
+      "changeable": 0, 
+      "ext":"0$$$socks5://127.0.0.1:10074" 
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看|简化代理10074",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://haiwaikan.com/api.php/provide/vod?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10074&url=",
+      "searchable": 1,
+      "filterable": 1, 
+      "changeable": 0, 
+      "ext":"0$$$127.0.0.1:10074" 
+    },
 
 
 
