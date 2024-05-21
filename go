@@ -29,7 +29,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-       "jar": "./jar/fan.txt",
       "ext": {
         "aliToken": "./lib/token.txt",
         "quarkCookie": "./lib/quark.txt",
