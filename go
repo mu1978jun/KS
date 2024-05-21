@@ -55,7 +55,15 @@
       },
       "ext": "https://WWW.CZYS.TOP/"
     },	  
-
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
    {
       "key": "zxzj",
       "name": "🍊在线┃外剧",
