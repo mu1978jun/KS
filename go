@@ -64,6 +64,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
+  {
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },	  
    {
       "key": "zxzj",
       "name": "🍊在线┃外剧",
