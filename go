@@ -39,18 +39,23 @@
       }
     },
 {"key":"bdys","name":"🤡哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./js/bdys_open.js"},
-	  {
-      "key": "厂长",
-      "name": "📔厂长┃无广",
+
+  {
+      "key": "csp_Czsapp",
+      "name": "📔厂长",
       "type": 3,
       "api": "csp_Czsapp",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/"
-    },
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "https://WWW.CZYS.TOP/"
+    },	  
 {
       "key": "nmys_js",
       "name": "🐟农民|在线",
