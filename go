@@ -37,7 +37,7 @@
         "danMu": "弹"
       }
     },
-{"key":"bdys","name":"🤡哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./js/bdys_open.js"},
+
 
   {
       "key": "csp_Czsapp",
@@ -55,46 +55,38 @@
       },
       "ext": "https://WWW.CZYS.TOP/"
     },	  
-{
-      "key": "nmys_js",
-      "name": "🐟农民|在线",
+
+   {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
       "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
-      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js",
-      "timeout": 15
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
     },
-{"key": "T4-360",
-      "name": "💝360影视大全",
-      "type": 4,
-      "api": "https://catbox.n13.club/360.php",
+    {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
+      "changeable": 1
     },
-
-
-
-
-
-{
-            "key": "sc1080",
-            "name": "🥗 圣城 ",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/SC1080.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-
-
-
+   {
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 	
 
 	
@@ -106,7 +98,6 @@
 
 
 
-{"key":"csp_Bdys","name":"🐣哔嘀影视🐣","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "./YY/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"},    
 
 
 
