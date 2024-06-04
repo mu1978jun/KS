@@ -37,24 +37,21 @@
         "danMu": "弹"
       }
     },
-
-
-  {
-      "key": "csp_Czsapp",
-      "name": "📔厂长",
+ {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": "https://WWW.CZYS.TOP/"
-    },	  
+      "changeable": 1,
+      "jar": "./jar/fan.txt",
+      "ext": "https://czzy.top/"
+    },
+
+ 
     {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
