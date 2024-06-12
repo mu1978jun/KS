@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/fan.txt",
+      "jar": "./YY/fan.txt",
       "ext": "https://czzy.top/"
     },
 
@@ -61,6 +61,27 @@
       "quickSearch": 1,
       "changeable": 1
     },
+ {
+      "key": "Wexwencai",
+      "name": "🎇文才┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+      "changeable": 1,"jar":"./YY/wex.txt"},
+{
+      "key": "Wexzxzj",
+      "name": "🚩外剧┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexzxzj",
+      "searchable": 1,
+      "changeable": 1,"jar":"./YY/wex.txt"},
+   {
+      "key": "Wexhuaruitv",
+      "name": "🌺花蕊┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexhuaruitv",
+      "searchable": 1,
+      "changeable": 1,"jar":"./YY/wex.txt"}, 	  
   {
       "key": "酷看",
       "name": "💡酷看┃秒播",
