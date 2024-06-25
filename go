@@ -34,7 +34,7 @@
         "quarkCookie": "./lib/quark.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
+        "danMu": ""
       }
     },
  {
