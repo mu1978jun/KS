@@ -33,7 +33,7 @@
         "aliToken": "./lib/token.txt",
         "quarkCookie": "./lib/quark.txt",
         "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
+        "siteUrl": "https://www.wogg.bf/",
         "danMu": ""
       }
     },
