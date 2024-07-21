@@ -48,7 +48,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar": "./YY/fan.txt",
-      "ext": "https://czzy.top/"
+      "ext": "https://www.czys.pro/"
     },
 
  
