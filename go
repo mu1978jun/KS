@@ -47,7 +47,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./YY/fan.txt",
       "ext": "https://www.czys.pro/"
     },
 
