@@ -37,6 +37,39 @@
         "danMu": ""
       }
     },
+{
+            "key": "JS",
+            "name": "甄嬛｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4KAV.js"
+        },
+        {
+            "key": "07104K-剧院",
+            "name": "紫薇｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4K剧院.js"
+        },
+{
+			"key": "hipy_js_哔嘀影视[优]",
+			"name": "哔嘀影视",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/哔嘀影视[优].js"
+		},	  
  {
       "key": "厂长",
       "name": "📔厂长┃不卡",
